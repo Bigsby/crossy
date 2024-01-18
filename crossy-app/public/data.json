@@ -1,0 +1,2732 @@
+{
+    "categories": [
+        {
+            "name": "Special"
+        },
+        {
+            "name": "Original Cast"
+        },
+        {
+            "name": "Medieval"
+        },
+        {
+            "name": "Candy"
+        },
+        {
+            "name": "Japan"
+        },
+        {
+            "name": "At Home"
+        },
+        {
+            "name": "Ocean"
+        },
+        {
+            "name": "Party"
+        },
+        {
+            "name": "Space"
+        },
+        {
+            "name": "Savana"
+        },
+        {
+            "name": "Baby Animals"
+        },
+        {
+            "name": "Dinosaurs"
+        },
+        {
+            "name": "Arctic"
+        },
+        {
+            "name": "Brazil"
+        },
+        {
+            "name": "Festive"
+        },
+        {
+            "name": "Spooky"
+        },
+        {
+            "name": "Pac-man"
+        },
+        {
+            "name": "Korea"
+        },
+        {
+            "name": "UK & Ireland"
+        },
+        {
+            "name": "China"
+        },
+        {
+            "name": "Australia"
+        },
+        {
+            "name": "New Zealand"
+        },
+        {
+            "name": "People"
+        },
+        {
+            "name": "Animals"
+        },
+        {
+            "name": "Cats and Dogs"
+        },
+        {
+            "name": "Friends of Crossy"
+        }
+    ],
+    "characters": [
+        {
+            "name": "#TheDress",
+            "category": "People",
+            "token": false,
+            "secret": false,
+            "required": "Required",
+            "missing": false
+        },
+        {
+            "name": "3.1",
+            "category": "Friends of Crossy",
+            "token": false,
+            "secret": false,
+            "required": "",
+            "missing": false
+        },
+        {
+            "name": "A Crow",
+            "category": "Friends of Crossy",
+            "token": false,
+            "secret": false,
+            "required": "",
+            "missing": false
+        },
+        {
+            "name": "Ace",
+            "category": "People",
+            "token": false,
+            "secret": false,
+            "required": "",
+            "missing": false
+        },
+        {
+            "name": "Ad Buster",
+            "category": "Special",
+            "token": false,
+            "secret": false,
+            "required": "",
+            "missing": false
+        },
+        {
+            "name": "Ad Fighter",
+            "category": "Special",
+            "token": false,
+            "secret": false,
+            "required": "",
+            "missing": false
+        },
+        {
+            "name": "African Termite",
+            "category": "Savana",
+            "token": false,
+            "secret": false,
+            "required": "",
+            "missing": false
+        },
+        {
+            "name": "Alice",
+            "category": "Candy",
+            "token": false,
+            "secret": false,
+            "required": "",
+            "missing": false
+        },
+        {
+            "name": "Android Robot",
+            "category": "Special",
+            "token": false,
+            "secret": false,
+            "required": "",
+            "missing": false
+        },
+        {
+            "name": "Andy Sum",
+            "category": "People",
+            "token": false,
+            "secret": true,
+            "required": "",
+            "missing": false
+        },
+        {
+            "name": "Angler Fish",
+            "category": "Ocean",
+            "token": false,
+            "secret": true,
+            "required": "Mallard",
+            "missing": false
+        },
+        {
+            "name": "Archaepteryx",
+            "category": "Dinosaurs",
+            "token": false,
+            "secret": false,
+            "required": "Any Ocean mascot",
+            "missing": false
+        },
+        {
+            "name": "Arctic Fox",
+            "category": "Arctic",
+            "token": false,
+            "secret": false,
+            "required": "",
+            "missing": false
+        },
+        {
+            "name": "Artctic Hare",
+            "category": "Arctic",
+            "token": false,
+            "secret": false,
+            "required": "",
+            "missing": false
+        },
+        {
+            "name": "Astronaut",
+            "category": "Space",
+            "token": false,
+            "secret": false,
+            "required": "",
+            "missing": false
+        },
+        {
+            "name": "Astronaut",
+            "category": "Friends of Crossy",
+            "token": false,
+            "secret": false,
+            "required": "",
+            "missing": false
+        },
+        {
+            "name": "Astronomer",
+            "category": "Space",
+            "token": false,
+            "secret": false,
+            "required": "",
+            "missing": false
+        },
+        {
+            "name": "Baby Bear",
+            "category": "Baby Animals",
+            "token": false,
+            "secret": false,
+            "required": "",
+            "missing": false
+        },
+        {
+            "name": "Baby Bunny",
+            "category": "Baby Animals",
+            "token": false,
+            "secret": false,
+            "required": "",
+            "missing": false
+        },
+        {
+            "name": "Baby Chicken",
+            "category": "Baby Animals",
+            "token": false,
+            "secret": false,
+            "required": "",
+            "missing": false
+        },
+        {
+            "name": "Baby Duck",
+            "category": "Baby Animals",
+            "token": false,
+            "secret": false,
+            "required": "",
+            "missing": false
+        },
+        {
+            "name": "Baby Hippo",
+            "category": "Baby Animals",
+            "token": false,
+            "secret": false,
+            "required": "",
+            "missing": false
+        },
+        {
+            "name": "Baby Seal",
+            "category": "Baby Animals",
+            "token": false,
+            "secret": false,
+            "required": "",
+            "missing": false
+        },
+        {
+            "name": "Badger",
+            "category": "UK & Ireland",
+            "token": false,
+            "secret": false,
+            "required": "",
+            "missing": false
+        },
+        {
+            "name": "Bag It!",
+            "category": "Friends of Crossy",
+            "token": false,
+            "secret": false,
+            "required": "",
+            "missing": false
+        },
+        {
+            "name": "Baller",
+            "category": "People",
+            "token": false,
+            "secret": false,
+            "required": "",
+            "missing": false
+        },
+        {
+            "name": "Bashy Beaver",
+            "category": "Special",
+            "token": false,
+            "secret": false,
+            "required": "",
+            "missing": false
+        },
+        {
+            "name": "Bee",
+            "category": "Savana",
+            "token": false,
+            "secret": false,
+            "required": "",
+            "missing": false
+        },
+        {
+            "name": "Ben Weatherall",
+            "category": "People",
+            "token": false,
+            "secret": true,
+            "required": "",
+            "missing": false
+        },
+        {
+            "name": "Best in Show",
+            "category": "Cats and Dogs",
+            "token": false,
+            "secret": true,
+            "required": "The Dark Lord",
+            "missing": false
+        },
+        {
+            "name": "Big Fancy Pig",
+            "category": "Party",
+            "token": false,
+            "secret": true,
+            "required": "Any dog",
+            "missing": false
+        },
+        {
+            "name": "Big Fat Pit",
+            "category": "Original Cast",
+            "token": false,
+            "secret": false,
+            "required": "Blue",
+            "missing": false
+        },
+        {
+            "name": "Bilby",
+            "category": "Australia",
+            "token": false,
+            "secret": false,
+            "required": "",
+            "missing": false
+        },
+        {
+            "name": "Birthday Chicken",
+            "category": "Party",
+            "token": false,
+            "secret": false,
+            "required": "",
+            "missing": false
+        },
+        {
+            "name": "Birthday Kid",
+            "category": "Party",
+            "token": false,
+            "secret": false,
+            "required": "",
+            "missing": false
+        },
+        {
+            "name": "Black Knight",
+            "category": "Medieval",
+            "token": true,
+            "secret": false,
+            "required": "",
+            "missing": true
+        },
+        {
+            "name": "Black Sheep",
+            "category": "Original Cast",
+            "token": false,
+            "secret": false,
+            "required": "",
+            "missing": false
+        },
+        {
+            "name": "Blacksmith",
+            "category": "Medieval",
+            "token": false,
+            "secret": false,
+            "required": "",
+            "missing": false
+        },
+        {
+            "name": "Blinky",
+            "category": "Pac-man",
+            "token": false,
+            "secret": true,
+            "required": "",
+            "missing": false
+        },
+        {
+            "name": "Blue",
+            "category": "Cats and Dogs",
+            "token": false,
+            "secret": false,
+            "required": "Pac-Chicken or Clyde",
+            "missing": false
+        },
+        {
+            "name": "Blue Macaw",
+            "category": "Brazil",
+            "token": false,
+            "secret": false,
+            "required": "",
+            "missing": false
+        },
+        {
+            "name": "Bobby",
+            "category": "UK & Ireland",
+            "token": false,
+            "secret": false,
+            "required": "",
+            "missing": false
+        },
+        {
+            "name": "Bones",
+            "category": "Dinosaurs",
+            "token": false,
+            "secret": true,
+            "required": "",
+            "missing": false
+        },
+        {
+            "name": "Brazil Chicken",
+            "category": "Brazil",
+            "token": false,
+            "secret": false,
+            "required": "Paleontologist",
+            "missing": false
+        },
+        {
+            "name": "Bride of Crossy",
+            "category": "Spooky",
+            "token": false,
+            "secret": false,
+            "required": "",
+            "missing": false
+        },
+        {
+            "name": "Brown Bunny",
+            "category": "Animals",
+            "token": false,
+            "secret": false,
+            "required": "",
+            "missing": false
+        },
+        {
+            "name": "Butterfly",
+            "category": "UK & Ireland",
+            "token": false,
+            "secret": false,
+            "required": "",
+            "missing": false
+        },
+        {
+            "name": "Cai Shen",
+            "category": "China",
+            "token": false,
+            "secret": true,
+            "required": "",
+            "missing": false
+        },
+        {
+            "name": "Candy Corn",
+            "category": "Spooky",
+            "token": false,
+            "secret": false,
+            "required": "Fortune Chicken, Fire Monkey, Xi, New Year's Doll, or Chinese Monster",
+            "missing": false
+        },
+        {
+            "name": "Capoeira",
+            "category": "Brazil",
+            "token": false,
+            "secret": false,
+            "required": "",
+            "missing": false
+        },
+        {
+            "name": "Capybara",
+            "category": "Original Cast",
+            "token": false,
+            "secret": false,
+            "required": "",
+            "missing": false
+        },
+        {
+            "name": "Caredy Cat",
+            "category": "Cats and Dogs",
+            "token": false,
+            "secret": false,
+            "required": "",
+            "missing": false
+        },
+        {
+            "name": "Carnaval",
+            "category": "Brazil",
+            "token": false,
+            "secret": false,
+            "required": "",
+            "missing": false
+        },
+        {
+            "name": "Cat Lady",
+            "category": "Cats and Dogs",
+            "token": false,
+            "secret": true,
+            "required": "",
+            "missing": false
+        },
+        {
+            "name": "Cat-in-a-Box",
+            "category": "At Home",
+            "token": false,
+            "secret": false,
+            "required": "Lucky Cat, Unlucky Cat, or Tabby Cat",
+            "missing": false
+        },
+        {
+            "name": "Catrina",
+            "category": "Spooky",
+            "token": false,
+            "secret": false,
+            "required": "",
+            "missing": false
+        },
+        {
+            "name": "Celebrity",
+            "category": "People",
+            "token": false,
+            "secret": false,
+            "required": "",
+            "missing": false
+        },
+        {
+            "name": "Cheerleader",
+            "category": "People",
+            "token": false,
+            "secret": false,
+            "required": "",
+            "missing": false
+        },
+        {
+            "name": "Chicken",
+            "category": "Original Cast",
+            "token": false,
+            "secret": false,
+            "required": "",
+            "missing": false
+        },
+        {
+            "name": "Chimney Sweep",
+            "category": "UK & Ireland",
+            "token": false,
+            "secret": false,
+            "required": "",
+            "missing": false
+        },
+        {
+            "name": "Chinese Monster",
+            "category": "China",
+            "token": false,
+            "secret": true,
+            "required": "",
+            "missing": false
+        },
+        {
+            "name": "Choc Chicken",
+            "category": "Candy",
+            "token": false,
+            "secret": false,
+            "required": "New Year's Doll",
+            "missing": false
+        },
+        {
+            "name": "Choc Mallard",
+            "category": "Candy",
+            "token": false,
+            "secret": true,
+            "required": "",
+            "missing": false
+        },
+        {
+            "name": "Chocolatier",
+            "category": "Candy",
+            "token": false,
+            "secret": false,
+            "required": "Jelly Bear",
+            "missing": false
+        },
+        {
+            "name": "Clown",
+            "category": "Spooky",
+            "token": false,
+            "secret": true,
+            "required": "",
+            "missing": false
+        },
+        {
+            "name": "Clyde",
+            "category": "Pac-man",
+            "token": false,
+            "secret": true,
+            "required": "The Hand",
+            "missing": false
+        },
+        {
+            "name": "Cockatoo",
+            "category": "Australia",
+            "token": false,
+            "secret": false,
+            "required": "Pac-man",
+            "missing": false
+        },
+        {
+            "name": "Coconut Water",
+            "category": "Brazil",
+            "token": false,
+            "secret": true,
+            "required": "",
+            "missing": false
+        },
+        {
+            "name": "Cow",
+            "category": "Original Cast",
+            "token": false,
+            "secret": false,
+            "required": "Tourist",
+            "missing": false
+        },
+        {
+            "name": "Crab",
+            "category": "Australia",
+            "token": false,
+            "secret": true,
+            "required": "",
+            "missing": false
+        },
+        {
+            "name": "Crazy Ol' Ben",
+            "category": "People",
+            "token": false,
+            "secret": false,
+            "required": "Any mascot",
+            "missing": false
+        },
+        {
+            "name": "Crocodile",
+            "category": "Savana",
+            "token": false,
+            "secret": false,
+            "required": "",
+            "missing": false
+        },
+        {
+            "name": "Cyclist",
+            "category": "People",
+            "token": false,
+            "secret": false,
+            "required": "",
+            "missing": false
+        },
+        {
+            "name": "Daddy",
+            "category": "Korea",
+            "token": false,
+            "secret": false,
+            "required": "",
+            "missing": false
+        },
+        {
+            "name": "Daruma Doll",
+            "category": "Japan",
+            "token": false,
+            "secret": false,
+            "required": "",
+            "missing": false
+        },
+        {
+            "name": "Desert Frog",
+            "category": "Animals",
+            "token": false,
+            "secret": false,
+            "required": "",
+            "missing": false
+        },
+        {
+            "name": "Devil Dad",
+            "category": "Spooky",
+            "token": false,
+            "secret": false,
+            "required": "",
+            "missing": false
+        },
+        {
+            "name": "Dilophosaurus",
+            "category": "Dinosaurs",
+            "token": false,
+            "secret": false,
+            "required": "",
+            "missing": false
+        },
+        {
+            "name": "Dingo",
+            "category": "Australia",
+            "token": false,
+            "secret": false,
+            "required": "",
+            "missing": false
+        },
+        {
+            "name": "Dinosaur Chicken",
+            "category": "Dinosaurs",
+            "token": false,
+            "secret": false,
+            "required": "",
+            "missing": false
+        },
+        {
+            "name": "Disco Zoo",
+            "category": "Friends of Crossy",
+            "token": false,
+            "secret": false,
+            "required": "",
+            "missing": false
+        },
+        {
+            "name": "Diver",
+            "category": "Ocean",
+            "token": false,
+            "secret": false,
+            "required": "",
+            "missing": false
+        },
+        {
+            "name": "Doge",
+            "category": "Cats and Dogs",
+            "token": false,
+            "secret": false,
+            "required": "",
+            "missing": false
+        },
+        {
+            "name": "Door Gods",
+            "category": "China",
+            "token": false,
+            "secret": false,
+            "required": "",
+            "missing": false
+        },
+        {
+            "name": "Dragon",
+            "category": "China",
+            "token": false,
+            "secret": false,
+            "required": "",
+            "missing": false
+        },
+        {
+            "name": "Dragon Rider",
+            "category": "People",
+            "token": false,
+            "secret": true,
+            "required": "",
+            "missing": true
+        },
+        {
+            "name": "Drop Bear",
+            "category": "Australia",
+            "token": false,
+            "secret": true,
+            "required": "Snow King",
+            "missing": false
+        },
+        {
+            "name": "Easter Bunny",
+            "category": "Festive",
+            "token": false,
+            "secret": false,
+            "required": "Any Australian mascot",
+            "missing": false
+        },
+        {
+            "name": "Echidna",
+            "category": "Australia",
+            "token": false,
+            "secret": false,
+            "required": "",
+            "missing": false
+        },
+        {
+            "name": "Elf",
+            "category": "Festive",
+            "token": false,
+            "secret": false,
+            "required": "",
+            "missing": false
+        },
+        {
+            "name": "Emo Goose",
+            "category": "Original Cast",
+            "token": false,
+            "secret": false,
+            "required": "",
+            "missing": false
+        },
+        {
+            "name": "Emu",
+            "category": "Australia",
+            "token": false,
+            "secret": false,
+            "required": "",
+            "missing": false
+        },
+        {
+            "name": "Epoch",
+            "category": "Friends of Crossy",
+            "token": false,
+            "secret": false,
+            "required": "",
+            "missing": false
+        },
+        {
+            "name": "Falconer",
+            "category": "Medieval",
+            "token": false,
+            "secret": false,
+            "required": "",
+            "missing": false
+        },
+        {
+            "name": "Fancy Gent",
+            "category": "UK & Ireland",
+            "token": false,
+            "secret": false,
+            "required": "",
+            "missing": false
+        },
+        {
+            "name": "Fancy Lady",
+            "category": "UK & Ireland",
+            "token": false,
+            "secret": false,
+            "required": "",
+            "missing": false
+        },
+        {
+            "name": "Fast Tortoise",
+            "category": "Animals",
+            "token": false,
+            "secret": false,
+            "required": "",
+            "missing": false
+        },
+        {
+            "name": "Fawn",
+            "category": "Baby Animals",
+            "token": false,
+            "secret": false,
+            "required": "",
+            "missing": false
+        },
+        {
+            "name": "Festive Chicken",
+            "category": "Festive",
+            "token": false,
+            "secret": false,
+            "required": "",
+            "missing": false
+        },
+        {
+            "name": "Fiordland Penguin",
+            "category": "New Zealand",
+            "token": false,
+            "secret": false,
+            "required": "",
+            "missing": false
+        },
+        {
+            "name": "Fire Monkey",
+            "category": "China",
+            "token": false,
+            "secret": false,
+            "required": "",
+            "missing": false
+        },
+        {
+            "name": "Fish 'n Chips",
+            "category": "UK & Ireland",
+            "token": false,
+            "secret": false,
+            "required": "",
+            "missing": false
+        },
+        {
+            "name": "Flag Bearer",
+            "category": "Brazil",
+            "token": false,
+            "secret": false,
+            "required": "",
+            "missing": false
+        },
+        {
+            "name": "Flat Eric",
+            "category": "Friends of Crossy",
+            "token": false,
+            "secret": false,
+            "required": "",
+            "missing": false
+        },
+        {
+            "name": "Flea",
+            "category": "Original Cast",
+            "token": false,
+            "secret": false,
+            "required": "",
+            "missing": false
+        },
+        {
+            "name": "Floppy Fish",
+            "category": "Original Cast",
+            "token": false,
+            "secret": false,
+            "required": "",
+            "missing": false
+        },
+        {
+            "name": "Fluffy Sheep",
+            "category": "New Zealand",
+            "token": false,
+            "secret": false,
+            "required": "",
+            "missing": false
+        },
+        {
+            "name": "Football Player",
+            "category": "People",
+            "token": false,
+            "secret": false,
+            "required": "",
+            "missing": false
+        },
+        {
+            "name": "Forget-Me-Not",
+            "category": "Friends of Crossy",
+            "token": false,
+            "secret": false,
+            "required": "",
+            "missing": false
+        },
+        {
+            "name": "Fortune Chicken",
+            "category": "China",
+            "token": false,
+            "secret": false,
+            "required": "",
+            "missing": false
+        },
+        {
+            "name": "Fox",
+            "category": "UK & Ireland",
+            "token": false,
+            "secret": false,
+            "required": "",
+            "missing": false
+        },
+        {
+            "name": "Fox Cub",
+            "category": "Baby Animals",
+            "token": false,
+            "secret": false,
+            "required": "",
+            "missing": false
+        },
+        {
+            "name": "Framed",
+            "category": "Friends of Crossy",
+            "token": false,
+            "secret": false,
+            "required": "",
+            "missing": false
+        },
+        {
+            "name": "Frankenstein",
+            "category": "Spooky",
+            "token": false,
+            "secret": false,
+            "required": "",
+            "missing": false
+        },
+        {
+            "name": "Frying Pan",
+            "category": "At Home",
+            "token": false,
+            "secret": false,
+            "required": "",
+            "missing": false
+        },
+        {
+            "name": "Gazelle",
+            "category": "Savana",
+            "token": false,
+            "secret": false,
+            "required": "",
+            "missing": false
+        },
+        {
+            "name": "Ghost",
+            "category": "Spooky",
+            "token": false,
+            "secret": false,
+            "required": "",
+            "missing": false
+        },
+        {
+            "name": "Giddy Goat",
+            "category": "Original Cast",
+            "token": false,
+            "secret": false,
+            "required": "",
+            "missing": false
+        },
+        {
+            "name": "Gifty",
+            "category": "Festive",
+            "token": false,
+            "secret": true,
+            "required": "",
+            "missing": false
+        },
+        {
+            "name": "Gingerbread Man",
+            "category": "Candy",
+            "token": false,
+            "secret": true,
+            "required": "Festive Chicken",
+            "missing": false
+        },
+        {
+            "name": "Giraffe",
+            "category": "Savana",
+            "token": false,
+            "secret": false,
+            "required": "Wolf",
+            "missing": false
+        },
+        {
+            "name": "Good Witch",
+            "category": "Candy",
+            "token": false,
+            "secret": false,
+            "required": "",
+            "missing": false
+        },
+        {
+            "name": "Gorgeous Pince",
+            "category": "Medieval",
+            "token": false,
+            "secret": false,
+            "required": "",
+            "missing": false
+        },
+        {
+            "name": "Grablin",
+            "category": "Friends of Crossy",
+            "token": false,
+            "secret": false,
+            "required": "",
+            "missing": false
+        },
+        {
+            "name": "Grave Digger",
+            "category": "Spooky",
+            "token": false,
+            "secret": false,
+            "required": "",
+            "missing": false
+        },
+        {
+            "name": "Grey Bunny",
+            "category": "Animals",
+            "token": false,
+            "secret": false,
+            "required": "",
+            "missing": false
+        },
+        {
+            "name": "Halfling",
+            "category": "New Zealand",
+            "token": false,
+            "secret": true,
+            "required": "",
+            "missing": false
+        },
+        {
+            "name": "Hansel and Gretel",
+            "category": "Candy",
+            "token": false,
+            "secret": false,
+            "required": "Any New Zealand mascot",
+            "missing": false
+        },
+        {
+            "name": "Healer",
+            "category": "Medieval",
+            "token": false,
+            "secret": false,
+            "required": "",
+            "missing": false
+        },
+        {
+            "name": "Hipster Whale",
+            "category": "Original Cast",
+            "token": false,
+            "secret": true,
+            "required": "",
+            "missing": false
+        },
+        {
+            "name": "Home Chicken",
+            "category": "At Home",
+            "token": false,
+            "secret": false,
+            "required": "Any mascot",
+            "missing": false
+        },
+        {
+            "name": "Hooty",
+            "category": "Friends of Crossy",
+            "token": false,
+            "secret": false,
+            "required": "",
+            "missing": false
+        },
+        {
+            "name": "Hot Pot",
+            "category": "China",
+            "token": false,
+            "secret": false,
+            "required": "",
+            "missing": false
+        },
+        {
+            "name": "Hot Shot",
+            "category": "People",
+            "token": false,
+            "secret": false,
+            "required": "",
+            "missing": false
+        },
+        {
+            "name": "Hurdler",
+            "category": "People",
+            "token": false,
+            "secret": false,
+            "required": "",
+            "missing": false
+        },
+        {
+            "name": "Iceberg",
+            "category": "Arctic",
+            "token": false,
+            "secret": true,
+            "required": "",
+            "missing": false
+        },
+        {
+            "name": "Ida",
+            "category": "Friends of Crossy",
+            "token": false,
+            "secret": false,
+            "required": "Any Arctic mascots",
+            "missing": false
+        },
+        {
+            "name": "Iguana Hatchling",
+            "category": "Baby Animals",
+            "token": false,
+            "secret": false,
+            "required": "",
+            "missing": false
+        },
+        {
+            "name": "Inky",
+            "category": "Pac-man",
+            "token": false,
+            "secret": true,
+            "required": "",
+            "missing": false
+        },
+        {
+            "name": "Jaguar",
+            "category": "Brazil",
+            "token": false,
+            "secret": false,
+            "required": "Pac-man",
+            "missing": false
+        },
+        {
+            "name": "Jelly Bear",
+            "category": "Candy",
+            "token": false,
+            "secret": false,
+            "required": "",
+            "missing": false
+        },
+        {
+            "name": "Jindo",
+            "category": "Korea",
+            "token": false,
+            "secret": false,
+            "required": "",
+            "missing": false
+        },
+        {
+            "name": "Jungle Frog",
+            "category": "Animals",
+            "token": false,
+            "secret": false,
+            "required": "",
+            "missing": false
+        },
+        {
+            "name": "Kangaroo",
+            "category": "Australia",
+            "token": false,
+            "secret": false,
+            "required": "",
+            "missing": false
+        },
+        {
+            "name": "Karateka",
+            "category": "Japan",
+            "token": false,
+            "secret": false,
+            "required": "",
+            "missing": false
+        },
+        {
+            "name": "Katamari Chicken",
+            "category": "Friends of Crossy",
+            "token": false,
+            "secret": false,
+            "required": "",
+            "missing": false
+        },
+        {
+            "name": "K-Drama Actor",
+            "category": "Korea",
+            "token": false,
+            "secret": false,
+            "required": "",
+            "missing": false
+        },
+        {
+            "name": "Kea",
+            "category": "New Zealand",
+            "token": false,
+            "secret": false,
+            "required": "",
+            "missing": false
+        },
+        {
+            "name": "Kimchi",
+            "category": "Korea",
+            "token": false,
+            "secret": false,
+            "required": "",
+            "missing": false
+        },
+        {
+            "name": "Kitten",
+            "category": "Baby Animals",
+            "token": false,
+            "secret": false,
+            "required": "",
+            "missing": false
+        },
+        {
+            "name": "Kiwi",
+            "category": "New Zealand",
+            "token": false,
+            "secret": false,
+            "required": "",
+            "missing": false
+        },
+        {
+            "name": "Koala",
+            "category": "Australia",
+            "token": false,
+            "secret": false,
+            "required": "",
+            "missing": false
+        },
+        {
+            "name": "Kookaburra",
+            "category": "Australia",
+            "token": false,
+            "secret": false,
+            "required": "",
+            "missing": false
+        },
+        {
+            "name": "Korean BBQ",
+            "category": "Korea",
+            "token": false,
+            "secret": false,
+            "required": "",
+            "missing": false
+        },
+        {
+            "name": "Korean Drummer",
+            "category": "Korea",
+            "token": false,
+            "secret": false,
+            "required": "",
+            "missing": false
+        },
+        {
+            "name": "Lady of the Lake",
+            "category": "Medieval",
+            "token": false,
+            "secret": true,
+            "required": "",
+            "missing": false
+        },
+        {
+            "name": "Laundry",
+            "category": "At Home",
+            "token": false,
+            "secret": false,
+            "required": "Any Medieval mascot",
+            "missing": false
+        },
+        {
+            "name": "Lemming",
+            "category": "Arctic",
+            "token": false,
+            "secret": false,
+            "required": "",
+            "missing": false
+        },
+        {
+            "name": "Leprechaun",
+            "category": "UK & Ireland",
+            "token": false,
+            "secret": true,
+            "required": "",
+            "missing": false
+        },
+        {
+            "name": "Lion",
+            "category": "Savana",
+            "token": false,
+            "secret": false,
+            "required": "Any UK & Ireland mascot",
+            "missing": false
+        },
+        {
+            "name": "Llama",
+            "category": "Brazil",
+            "token": false,
+            "secret": false,
+            "required": "",
+            "missing": false
+        },
+        {
+            "name": "Long Chicken",
+            "category": "Party",
+            "token": false,
+            "secret": false,
+            "required": "",
+            "missing": false
+        },
+        {
+            "name": "Long Turkey",
+            "category": "Festive",
+            "token": false,
+            "secret": false,
+            "required": "",
+            "missing": false
+        },
+        {
+            "name": "Lost Penguin",
+            "category": "Arctic",
+            "token": false,
+            "secret": false,
+            "required": "",
+            "missing": false
+        },
+        {
+            "name": "Lovely Bunny",
+            "category": "Animals",
+            "token": false,
+            "secret": false,
+            "required": "",
+            "missing": false
+        },
+        {
+            "name": "Lucky Cat",
+            "category": "Cats and Dogs",
+            "token": false,
+            "secret": false,
+            "required": "",
+            "missing": false
+        },
+        {
+            "name": "Mad Bull",
+            "category": "Original Cast",
+            "token": false,
+            "secret": false,
+            "required": "",
+            "missing": false
+        },
+        {
+            "name": "Mad Wizard",
+            "category": "Original Cast",
+            "token": false,
+            "secret": false,
+            "required": "",
+            "missing": false
+        },
+        {
+            "name": "Mallard",
+            "category": "Original Cast",
+            "token": false,
+            "secret": false,
+            "required": "",
+            "missing": false
+        },
+        {
+            "name": "Maned Wolf",
+            "category": "Brazil",
+            "token": false,
+            "secret": false,
+            "required": "",
+            "missing": false
+        },
+        {
+            "name": "Marathon Runner",
+            "category": "People",
+            "token": false,
+            "secret": true,
+            "required": "",
+            "missing": false
+        },
+        {
+            "name": "Marmalade",
+            "category": "Friends of Crossy",
+            "token": false,
+            "secret": true,
+            "required": "Cheerleader",
+            "missing": false
+        },
+        {
+            "name": "Marmalade Dog",
+            "category": "Cats and Dogs",
+            "token": false,
+            "secret": false,
+            "required": "Piffle Ball",
+            "missing": false
+        },
+        {
+            "name": "Marmoset",
+            "category": "Brazil",
+            "token": false,
+            "secret": false,
+            "required": "",
+            "missing": false
+        },
+        {
+            "name": "Matsuri Chicken",
+            "category": "Japan",
+            "token": false,
+            "secret": false,
+            "required": "",
+            "missing": false
+        },
+        {
+            "name": "Matt Hall",
+            "category": "People",
+            "token": false,
+            "secret": true,
+            "required": "",
+            "missing": false
+        },
+        {
+            "name": "Maui's Dolphin",
+            "category": "New Zealand",
+            "token": false,
+            "secret": false,
+            "required": "Lucky Cat",
+            "missing": false
+        },
+        {
+            "name": "Meerkat",
+            "category": "Savana",
+            "token": false,
+            "secret": false,
+            "required": "",
+            "missing": false
+        },
+        {
+            "name": "Merlady",
+            "category": "Ocean",
+            "token": false,
+            "secret": true,
+            "required": "",
+            "missing": false
+        },
+        {
+            "name": "Merlin",
+            "category": "Medieval",
+            "token": false,
+            "secret": true,
+            "required": "Any non-Ocean mascot",
+            "missing": false
+        },
+        {
+            "name": "Michael Boom",
+            "category": "People",
+            "token": false,
+            "secret": true,
+            "required": "The Wart",
+            "missing": false
+        },
+        {
+            "name": "Monk",
+            "category": "Medieval",
+            "token": false,
+            "secret": false,
+            "required": "Any mascot",
+            "missing": false
+        },
+        {
+            "name": "Moon Cheese",
+            "category": "Space",
+            "token": false,
+            "secret": false,
+            "required": "",
+            "missing": false
+        },
+        {
+            "name": "Moon Rock",
+            "category": "Space",
+            "token": false,
+            "secret": true,
+            "required": "",
+            "missing": false
+        },
+        {
+            "name": "Mummy",
+            "category": "Spooky",
+            "token": false,
+            "secret": false,
+            "required": "Any Space mascot",
+            "missing": false
+        },
+        {
+            "name": "Narwhal",
+            "category": "Arctic",
+            "token": false,
+            "secret": false,
+            "required": "",
+            "missing": false
+        },
+        {
+            "name": "Natto",
+            "category": "Japan",
+            "token": false,
+            "secret": false,
+            "required": "",
+            "missing": false
+        },
+        {
+            "name": "Nautilus",
+            "category": "Ocean",
+            "token": false,
+            "secret": false,
+            "required": "",
+            "missing": false
+        },
+        {
+            "name": "Nessie",
+            "category": "UK & Ireland",
+            "token": false,
+            "secret": true,
+            "required": "",
+            "missing": false
+        },
+        {
+            "name": "New Year's Doll",
+            "category": "China",
+            "token": false,
+            "secret": false,
+            "required": "Any UK & Ireland mascot",
+            "missing": false
+        },
+        {
+            "name": "Newt",
+            "category": "Animals",
+            "token": false,
+            "secret": false,
+            "required": "",
+            "missing": false
+        },
+        {
+            "name": "Nobleman",
+            "category": "Medieval",
+            "token": false,
+            "secret": false,
+            "required": "",
+            "missing": false
+        },
+        {
+            "name": "Noblewoman",
+            "category": "Medieval",
+            "token": false,
+            "secret": false,
+            "required": "",
+            "missing": false
+        },
+        {
+            "name": "Noelle",
+            "category": "Festive",
+            "token": false,
+            "secret": false,
+            "required": "",
+            "missing": false
+        },
+        {
+            "name": "Nudibranch",
+            "category": "Ocean",
+            "token": false,
+            "secret": false,
+            "required": "",
+            "missing": false
+        },
+        {
+            "name": "NZ Rugby Player",
+            "category": "New Zealand",
+            "token": false,
+            "secret": false,
+            "required": "",
+            "missing": false
+        },
+        {
+            "name": "Ocean Turtle",
+            "category": "Ocean",
+            "token": false,
+            "secret": false,
+            "required": "",
+            "missing": false
+        },
+        {
+            "name": "Octogenarian",
+            "category": "People",
+            "token": false,
+            "secret": false,
+            "required": "",
+            "missing": false
+        },
+        {
+            "name": "Octopus",
+            "category": "Ocean",
+            "token": false,
+            "secret": false,
+            "required": "",
+            "missing": false
+        },
+        {
+            "name": "Onigiri",
+            "category": "Japan",
+            "token": false,
+            "secret": false,
+            "required": "",
+            "missing": false
+        },
+        {
+            "name": "Pac-chicken",
+            "category": "Pac-man",
+            "token": false,
+            "secret": false,
+            "required": "",
+            "missing": false
+        },
+        {
+            "name": "Pachycephalosaurus",
+            "category": "Dinosaurs",
+            "token": false,
+            "secret": false,
+            "required": "",
+            "missing": false
+        },
+        {
+            "name": "Pac-man",
+            "category": "Pac-man",
+            "token": false,
+            "secret": false,
+            "required": "",
+            "missing": false
+        },
+        {
+            "name": "Paleontologist",
+            "category": "Dinosaurs",
+            "token": false,
+            "secret": false,
+            "required": "",
+            "missing": false
+        },
+        {
+            "name": "Pandeiro",
+            "category": "Brazil",
+            "token": false,
+            "secret": false,
+            "required": "",
+            "missing": false
+        },
+        {
+            "name": "Parasaurolophus",
+            "category": "Dinosaurs",
+            "token": false,
+            "secret": false,
+            "required": "",
+            "missing": false
+        },
+        {
+            "name": "Pavlova",
+            "category": "New Zealand",
+            "token": false,
+            "secret": false,
+            "required": "",
+            "missing": false
+        },
+        {
+            "name": "Peasant",
+            "category": "Medieval",
+            "token": false,
+            "secret": false,
+            "required": "",
+            "missing": false
+        },
+        {
+            "name": "Penguin",
+            "category": "Arctic",
+            "token": false,
+            "secret": false,
+            "required": "",
+            "missing": false
+        },
+        {
+            "name": "Phone Box",
+            "category": "UK & Ireland",
+            "token": false,
+            "secret": true,
+            "required": "",
+            "missing": false
+        },
+        {
+            "name": "Piffle",
+            "category": "Friends of Crossy",
+            "token": false,
+            "secret": false,
+            "required": "Any UK & Ireland mascot",
+            "missing": false
+        },
+        {
+            "name": "Piffle Ball",
+            "category": "Friends of Crossy",
+            "token": false,
+            "secret": true,
+            "required": "",
+            "missing": false
+        },
+        {
+            "name": "Piggy Bank",
+            "category": "Special",
+            "token": false,
+            "secret": false,
+            "required": "Waffles",
+            "missing": false
+        },
+        {
+            "name": "Pineapple",
+            "category": "Friends of Crossy",
+            "token": false,
+            "secret": true,
+            "required": "",
+            "missing": false
+        },
+        {
+            "name": "Pinky",
+            "category": "Pac-man",
+            "token": false,
+            "secret": true,
+            "required": "Piffle Ball",
+            "missing": false
+        },
+        {
+            "name": "Piper",
+            "category": "UK & Ireland",
+            "token": false,
+            "secret": false,
+            "required": "Pac-Chicken",
+            "missing": false
+        },
+        {
+            "name": "Platypus",
+            "category": "Australia",
+            "token": false,
+            "secret": false,
+            "required": "",
+            "missing": false
+        },
+        {
+            "name": "Polar Bear",
+            "category": "Arctic",
+            "token": false,
+            "secret": false,
+            "required": "",
+            "missing": false
+        },
+        {
+            "name": "Poopy Pigeon",
+            "category": "Original Cast",
+            "token": false,
+            "secret": false,
+            "required": "",
+            "missing": false
+        },
+        {
+            "name": "Princess",
+            "category": "Medieval",
+            "token": false,
+            "secret": false,
+            "required": "",
+            "missing": false
+        },
+        {
+            "name": "Pro Gamer",
+            "category": "Korea",
+            "token": false,
+            "secret": true,
+            "required": "",
+            "missing": false
+        },
+        {
+            "name": "Pudding",
+            "category": "Festive",
+            "token": false,
+            "secret": false,
+            "required": "Any Korean mascot",
+            "missing": false
+        },
+        {
+            "name": "Puffin",
+            "category": "Arctic",
+            "token": false,
+            "secret": false,
+            "required": "",
+            "missing": false
+        },
+        {
+            "name": "Pug",
+            "category": "Cats and Dogs",
+            "token": false,
+            "secret": false,
+            "required": "",
+            "missing": false
+        },
+        {
+            "name": "Pumpkin",
+            "category": "Spooky",
+            "token": false,
+            "secret": false,
+            "required": "",
+            "missing": false
+        },
+        {
+            "name": "Puppy",
+            "category": "Baby Animals",
+            "token": false,
+            "secret": false,
+            "required": "",
+            "missing": false
+        },
+        {
+            "name": "Purple Bloop",
+            "category": "Friends of Crossy",
+            "token": false,
+            "secret": true,
+            "required": "",
+            "missing": false
+        },
+        {
+            "name": "Queen's Gaurd",
+            "category": "UK & Ireland",
+            "token": false,
+            "secret": false,
+            "required": "Grablin",
+            "missing": false
+        },
+        {
+            "name": "Qw33goorpps",
+            "category": "Friends of Crossy",
+            "token": false,
+            "secret": false,
+            "required": "",
+            "missing": false
+        },
+        {
+            "name": "Ramen",
+            "category": "Japan",
+            "token": false,
+            "secret": false,
+            "required": "",
+            "missing": false
+        },
+        {
+            "name": "Rattles",
+            "category": "Friends of Crossy",
+            "token": false,
+            "secret": false,
+            "required": "",
+            "missing": false
+        },
+        {
+            "name": "Redback Spider",
+            "category": "Spooky",
+            "token": false,
+            "secret": false,
+            "required": "",
+            "missing": false
+        },
+        {
+            "name": "Reindeer",
+            "category": "Festive",
+            "token": false,
+            "secret": false,
+            "required": "",
+            "missing": false
+        },
+        {
+            "name": "Rhino",
+            "category": "Savana",
+            "token": false,
+            "secret": false,
+            "required": "",
+            "missing": false
+        },
+        {
+            "name": "Robin Hood",
+            "category": "Medieval",
+            "token": false,
+            "secret": true,
+            "required": "",
+            "missing": false
+        },
+        {
+            "name": "Robot Dog",
+            "category": "Space",
+            "token": false,
+            "secret": true,
+            "required": "Monk",
+            "missing": false
+        },
+        {
+            "name": "Rocky",
+            "category": "People",
+            "token": false,
+            "secret": false,
+            "required": "Any Space mascot",
+            "missing": false
+        },
+        {
+            "name": "Rover",
+            "category": "Space",
+            "token": false,
+            "secret": false,
+            "required": "",
+            "missing": false
+        },
+        {
+            "name": "Rugby Player",
+            "category": "People",
+            "token": false,
+            "secret": true,
+            "required": "",
+            "missing": false
+        },
+        {
+            "name": "Runner",
+            "category": "People",
+            "token": false,
+            "secret": false,
+            "required": "Squirrel",
+            "missing": false
+        },
+        {
+            "name": "Rust Robot",
+            "category": "Original Cast",
+            "token": false,
+            "secret": false,
+            "required": "",
+            "missing": false
+        },
+        {
+            "name": "Sad Plant",
+            "category": "At Home",
+            "token": false,
+            "secret": false,
+            "required": "",
+            "missing": false
+        },
+        {
+            "name": "Samuria",
+            "category": "Japan",
+            "token": false,
+            "secret": false,
+            "required": "",
+            "missing": false
+        },
+        {
+            "name": "Scary Movie",
+            "category": "Spooky",
+            "token": false,
+            "secret": false,
+            "required": "",
+            "missing": false
+        },
+        {
+            "name": "Schoolgirl",
+            "category": "UK & Ireland",
+            "token": false,
+            "secret": false,
+            "required": "",
+            "missing": false
+        },
+        {
+            "name": "Scruffy God",
+            "category": "Cats and Dogs",
+            "token": false,
+            "secret": false,
+            "required": "",
+            "missing": false
+        },
+        {
+            "name": "Scuba Chicken",
+            "category": "Ocean",
+            "token": false,
+            "secret": false,
+            "required": "",
+            "missing": false
+        },
+        {
+            "name": "Seahorse",
+            "category": "Ocean",
+            "token": false,
+            "secret": false,
+            "required": "",
+            "missing": false
+        },
+        {
+            "name": "Seal",
+            "category": "Arctic",
+            "token": false,
+            "secret": true,
+            "required": "",
+            "missing": false
+        },
+        {
+            "name": "Seonbi",
+            "category": "Korea",
+            "token": false,
+            "secret": false,
+            "required": "Polar Bear",
+            "missing": false
+        },
+        {
+            "name": "Seoul Chicken",
+            "category": "Korea",
+            "token": false,
+            "secret": false,
+            "required": "",
+            "missing": false
+        },
+        {
+            "name": "Shooty Cat",
+            "category": "Friends of Crossy",
+            "token": false,
+            "secret": false,
+            "required": "",
+            "missing": false
+        },
+        {
+            "name": "Skeleton",
+            "category": "Spooky",
+            "token": false,
+            "secret": false,
+            "required": "",
+            "missing": false
+        },
+        {
+            "name": "Skeleton Pirate",
+            "category": "Ocean",
+            "token": false,
+            "secret": false,
+            "required": "",
+            "missing": false
+        },
+        {
+            "name": "Skip",
+            "category": "People",
+            "token": false,
+            "secret": false,
+            "required": "",
+            "missing": false
+        },
+        {
+            "name": "Slippers",
+            "category": "At Home",
+            "token": false,
+            "secret": false,
+            "required": "",
+            "missing": false
+        },
+        {
+            "name": "Slippy Penguin",
+            "category": "Arctic",
+            "token": false,
+            "secret": false,
+            "required": "",
+            "missing": false
+        },
+        {
+            "name": "Snow King",
+            "category": "Special",
+            "token": false,
+            "secret": true,
+            "required": "",
+            "missing": true
+        },
+        {
+            "name": "Snowman",
+            "category": "Festive",
+            "token": false,
+            "secret": false,
+            "required": "Pecking Order",
+            "missing": false
+        },
+        {
+            "name": "Soda Jerk",
+            "category": "Candy",
+            "token": false,
+            "secret": false,
+            "required": "",
+            "missing": false
+        },
+        {
+            "name": "Space Chicken",
+            "category": "Space",
+            "token": false,
+            "secret": false,
+            "required": "",
+            "missing": false
+        },
+        {
+            "name": "Space Dog",
+            "category": "Space",
+            "token": false,
+            "secret": false,
+            "required": "",
+            "missing": false
+        },
+        {
+            "name": "Space Walker",
+            "category": "Space",
+            "token": false,
+            "secret": true,
+            "required": "",
+            "missing": false
+        },
+        {
+            "name": "Specimen 115",
+            "category": "Original Cast",
+            "token": false,
+            "secret": false,
+            "required": "Any Space mascot",
+            "missing": false
+        },
+        {
+            "name": "Speedy Sloth",
+            "category": "Animals",
+            "token": false,
+            "secret": false,
+            "required": "",
+            "missing": false
+        },
+        {
+            "name": "Squirel",
+            "category": "UK & Ireland",
+            "token": false,
+            "secret": false,
+            "required": "",
+            "missing": false
+        },
+        {
+            "name": "Startfish",
+            "category": "Ocean",
+            "token": false,
+            "secret": false,
+            "required": "",
+            "missing": false
+        },
+        {
+            "name": "Stegosaurus",
+            "category": "Dinosaurs",
+            "token": false,
+            "secret": false,
+            "required": "",
+            "missing": false
+        },
+        {
+            "name": "Sumo Wrestler",
+            "category": "Japan",
+            "token": false,
+            "secret": false,
+            "required": "",
+            "missing": false
+        },
+        {
+            "name": "Swamp Frog",
+            "category": "Animals",
+            "token": false,
+            "secret": false,
+            "required": "",
+            "missing": false
+        },
+        {
+            "name": "Swift Snail",
+            "category": "Animals",
+            "token": false,
+            "secret": false,
+            "required": "",
+            "missing": false
+        },
+        {
+            "name": "Tabby Cat",
+            "category": "Cats and Dogs",
+            "token": false,
+            "secret": false,
+            "required": "",
+            "missing": false
+        },
+        {
+            "name": "Taekwondo Master",
+            "category": "Korea",
+            "token": false,
+            "secret": false,
+            "required": "",
+            "missing": false
+        },
+        {
+            "name": "Tanuki",
+            "category": "Japan",
+            "token": false,
+            "secret": false,
+            "required": "",
+            "missing": false
+        },
+        {
+            "name": "The Dark Lord",
+            "category": "Spooky",
+            "token": false,
+            "secret": false,
+            "required": "",
+            "missing": false
+        },
+        {
+            "name": "The Hand",
+            "category": "Spooky",
+            "token": false,
+            "secret": false,
+            "required": "",
+            "missing": false
+        },
+        {
+            "name": "The King of All Cosmos",
+            "category": "Friends of Crossy",
+            "token": false,
+            "secret": true,
+            "required": "",
+            "missing": false
+        },
+        {
+            "name": "The Prince of All Cosmos",
+            "category": "Friends of Crossy",
+            "token": false,
+            "secret": true,
+            "required": "The Prince of All Cosmos",
+            "missing": false
+        },
+        {
+            "name": "The Princess of All Cosmos",
+            "category": "Friends of Crossy",
+            "token": false,
+            "secret": true,
+            "required": "Katamari Chicken",
+            "missing": false
+        },
+        {
+            "name": "The Queen of All Cosmos",
+            "category": "Friends of Crossy",
+            "token": false,
+            "secret": true,
+            "required": "The Prince of All Cosmos",
+            "missing": false
+        },
+        {
+            "name": "The Storyteller",
+            "category": "Friends of Crossy",
+            "token": false,
+            "secret": false,
+            "required": "The King of All Cosmos",
+            "missing": false
+        },
+        {
+            "name": "The Three Deities",
+            "category": "China",
+            "token": false,
+            "secret": false,
+            "required": "",
+            "missing": false
+        },
+        {
+            "name": "The Totem",
+            "category": "Friends of Crossy",
+            "token": false,
+            "secret": true,
+            "required": "",
+            "missing": false
+        },
+        {
+            "name": "The Wart",
+            "category": "Medieval",
+            "token": false,
+            "secret": false,
+            "required": "Ida, A Crow, or The Storyteller",
+            "missing": false
+        },
+        {
+            "name": "Thesaurus",
+            "category": "Dinosaurs",
+            "token": false,
+            "secret": false,
+            "required": "",
+            "missing": false
+        },
+        {
+            "name": "Thoroughbred",
+            "category": "Original Cast",
+            "token": false,
+            "secret": false,
+            "required": "",
+            "missing": false
+        },
+        {
+            "name": "Tiger",
+            "category": "Cats and Dogs",
+            "token": false,
+            "secret": false,
+            "required": "",
+            "missing": false
+        },
+        {
+            "name": "Tiny Pony",
+            "category": "Baby Animals",
+            "token": false,
+            "secret": false,
+            "required": "",
+            "missing": false
+        },
+        {
+            "name": "Tió de Nadal",
+            "category": "Festive",
+            "token": false,
+            "secret": false,
+            "required": "",
+            "missing": false
+        },
+        {
+            "name": "Toaster",
+            "category": "At Home",
+            "token": false,
+            "secret": false,
+            "required": "",
+            "missing": false
+        },
+        {
+            "name": "Toilet Paper",
+            "category": "At Home",
+            "token": false,
+            "secret": false,
+            "required": "",
+            "missing": false
+        },
+        {
+            "name": "Token 10",
+            "category": "Spooky",
+            "token": true,
+            "secret": false,
+            "required": "",
+            "missing": true
+        },
+        {
+            "name": "Token 11",
+            "category": "Australia",
+            "token": true,
+            "secret": false,
+            "required": "",
+            "missing": true
+        },
+        {
+            "name": "Token 12",
+            "category": "New Zealand",
+            "token": true,
+            "secret": false,
+            "required": "",
+            "missing": true
+        },
+        {
+            "name": "Token 13",
+            "category": "People",
+            "token": true,
+            "secret": false,
+            "required": "",
+            "missing": true
+        },
+        {
+            "name": "Token 14",
+            "category": "People",
+            "token": true,
+            "secret": false,
+            "required": "",
+            "missing": true
+        },
+        {
+            "name": "Token 15",
+            "category": "Cats and Dogs",
+            "token": true,
+            "secret": false,
+            "required": "",
+            "missing": true
+        },
+        {
+            "name": "Token 2",
+            "category": "Japan",
+            "token": true,
+            "secret": false,
+            "required": "",
+            "missing": true
+        },
+        {
+            "name": "Poopy Party Chicken",
+            "category": "Party",
+            "token": true,
+            "secret": false,
+            "required": "",
+            "missing": false
+        },
+        {
+            "name": "Piñata",
+            "category": "Party",
+            "token": true,
+            "secret": false,
+            "required": "",
+            "missing": false
+        },
+        {
+            "name": "Cupcake",
+            "category": "Party",
+            "token": true,
+            "secret": false,
+            "required": "",
+            "missing": false
+        },
+        {
+            "name": "Token 6",
+            "category": "Party",
+            "token": true,
+            "secret": false,
+            "required": "",
+            "missing": true
+        },
+        {
+            "name": "Token 7",
+            "category": "Ocean",
+            "token": true,
+            "secret": false,
+            "required": "",
+            "missing": true
+        },
+        {
+            "name": "Token 8",
+            "category": "Baby Animals",
+            "token": true,
+            "secret": false,
+            "required": "",
+            "missing": true
+        },
+        {
+            "name": "Choc Bunny",
+            "category": "Festive",
+            "token": true,
+            "secret": false,
+            "required": "",
+            "missing": false
+        },
+        {
+            "name": "Too Much Candy",
+            "category": "Candy",
+            "token": false,
+            "secret": true,
+            "required": "",
+            "missing": false
+        },
+        {
+            "name": "Tooth Fairy",
+            "category": "Candy",
+            "token": false,
+            "secret": false,
+            "required": "Any mascot",
+            "missing": false
+        },
+        {
+            "name": "Toothbrush",
+            "category": "At Home",
+            "token": false,
+            "secret": false,
+            "required": "",
+            "missing": false
+        },
+        {
+            "name": "Toucan",
+            "category": "Brazil",
+            "token": false,
+            "secret": false,
+            "required": "",
+            "missing": false
+        },
+        {
+            "name": "Tourist",
+            "category": "People",
+            "token": false,
+            "secret": false,
+            "required": "",
+            "missing": false
+        },
+        {
+            "name": "Tree Frog",
+            "category": "Animals",
+            "token": false,
+            "secret": false,
+            "required": "",
+            "missing": false
+        },
+        {
+            "name": "Triceratops",
+            "category": "Dinosaurs",
+            "token": false,
+            "secret": false,
+            "required": "",
+            "missing": false
+        },
+        {
+            "name": "Turny",
+            "category": "Friends of Crossy",
+            "token": false,
+            "secret": false,
+            "required": "",
+            "missing": false
+        },
+        {
+            "name": "Tyrannosaurus Rex",
+            "category": "Dinosaurs",
+            "token": false,
+            "secret": false,
+            "required": "",
+            "missing": false
+        },
+        {
+            "name": "Ultra Fighter",
+            "category": "Japan",
+            "token": false,
+            "secret": false,
+            "required": "",
+            "missing": false
+        },
+        {
+            "name": "Unexpected Shrew",
+            "category": "Dinosaurs",
+            "token": false,
+            "secret": false,
+            "required": "",
+            "missing": false
+        },
+        {
+            "name": "Unihorse",
+            "category": "Original Cast",
+            "token": false,
+            "secret": false,
+            "required": "",
+            "missing": false
+        },
+        {
+            "name": "Unlucky Cat",
+            "category": "Cats and Dogs",
+            "token": false,
+            "secret": false,
+            "required": "",
+            "missing": false
+        },
+        {
+            "name": "Vampire",
+            "category": "Spooky",
+            "token": false,
+            "secret": false,
+            "required": "",
+            "missing": false
+        },
+        {
+            "name": "Waffles",
+            "category": "Friends of Crossy",
+            "token": false,
+            "secret": true,
+            "required": "",
+            "missing": false
+        },
+        {
+            "name": "Walrus",
+            "category": "Arctic",
+            "token": false,
+            "secret": false,
+            "required": "Piffle",
+            "missing": false
+        },
+        {
+            "name": "Warthog",
+            "category": "Savana",
+            "token": false,
+            "secret": false,
+            "required": "",
+            "missing": false
+        },
+        {
+            "name": "Wintersweet",
+            "category": "China",
+            "token": false,
+            "secret": false,
+            "required": "",
+            "missing": false
+        },
+        {
+            "name": "Witch",
+            "category": "Spooky",
+            "token": false,
+            "secret": false,
+            "required": "",
+            "missing": false
+        },
+        {
+            "name": "Wolf",
+            "category": "Cats and Dogs",
+            "token": false,
+            "secret": false,
+            "required": "",
+            "missing": false
+        },
+        {
+            "name": "Wolverine",
+            "category": "Arctic",
+            "token": false,
+            "secret": false,
+            "required": "",
+            "missing": false
+        },
+        {
+            "name": "Wombat",
+            "category": "Australia",
+            "token": false,
+            "secret": false,
+            "required": "",
+            "missing": false
+        },
+        {
+            "name": "Xi",
+            "category": "China",
+            "token": false,
+            "secret": false,
+            "required": "",
+            "missing": false
+        },
+        {
+            "name": "Yeti",
+            "category": "Festive",
+            "token": false,
+            "secret": true,
+            "required": "",
+            "missing": false
+        },
+        {
+            "name": "Zebra",
+            "category": "Savana",
+            "token": false,
+            "secret": false,
+            "required": "Any Christmas (2015) mascot",
+            "missing": false
+        },
+        {
+            "name": "Zombie",
+            "category": "Spooky",
+            "token": false,
+            "secret": false,
+            "required": "",
+            "missing": false
+        }
+    ]
+}

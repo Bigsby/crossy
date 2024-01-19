@@ -1,3 +1,12 @@
+export enum UnlockType 
+{
+    Free = "free",
+    Prize = "prize",
+    Secret = "secret",
+    Token = "token",
+    Purchase = "purchase"
+}
+
 export interface Character
 {
     name: string
@@ -6,5 +15,6 @@ export interface Character
     secret: boolean
     required: string
     missing: boolean
+    type: UnlockType
 }
 

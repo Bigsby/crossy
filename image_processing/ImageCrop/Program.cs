@@ -1,7 +1,11 @@
-﻿using Microsoft.VisualBasic;
-using SixLabors.ImageSharp;
+﻿using SixLabors.ImageSharp;
 using SixLabors.ImageSharp.Processing;
+using System;
+using System.IO;
 using static System.Console;
+using System.Linq;
+using System.Collections.Generic;
+using SixLabors.ImageSharp.PixelFormats;
 
 internal class Program
 {
@@ -30,11 +34,41 @@ internal class Program
         WriteLine($"{file} {image.Metadata?.DecodedImageFormat?.Name}");
         foreach (var index in Enumerable.Range(0, count))
         {
-            var croppedName = Path.Combine(directory, $"{name}_{index}.png");
+            var croppedName = Path.Combine(directory, "cropped", $"{name}_{index}.png");
             var cropped = image.Clone(i => i.Crop(GetRect(index)));
             cropped.SaveAsPng(croppedName);
             WriteLine($"{croppedName} saved.");
         }
+    }
+
+    static (int, int) GetFirst(Image<Rgba32> image, Rgba32 color, int start_x, int start_y)
+    {
+        for (var y = 0; y < image.Height; y++)
+            for (var x = 0; x < image.Width; x++)
+                if (image[x, y] == color)
+                    return (x, y);
+        throw new Exception($"{color} not found");
+    }
+   
+    
+    static void GetPixel(string file)
+    {
+        var name = Path.GetFileNameWithoutExtension(file);
+        var directory = Path.GetDirectoryName(file) ?? ".";
+        using var image = Image.Load<Rgba32>(file);
+        var half = image.Width / 2;
+        var targetColor = new Rgba32(115, 196, 246, 255);
+        var (start_x, start_y) = GetFirst(image, targetColor, 0, 0);
+        var end_x = start_x;
+        var end_y = start_y;
+        while (end_x < image.Width && image[end_x, start_y] == targetColor)
+            end_x++;
+        while (end_y < image.Height && image[start_x, end_y] == targetColor)
+            end_y++;
+        WriteLine($"{start_x},{start_y} {end_x},{end_y}");
+        var cropped = image.Clone(i => i.Crop(new Rectangle(start_x, start_y, end_x - start_x, end_y - start_y)));
+        cropped.SaveAsPng(Path.Combine(directory, "cropped", $"{name}_first.png"));
+        
     }
 
     private static void Main(string[] args)
@@ -50,6 +84,8 @@ internal class Program
             WriteLine($"{filePath} not a valid file path");
             Environment.Exit(1);
         }
+        GetPixel(filePath) ;
+        return;
         if (int.TryParse(args[1], out var count))
         {
             CropImage(filePath, count);

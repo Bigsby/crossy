@@ -192,199 +192,149 @@
             "name": "Baby Bunny",
             "category": "Baby Animals",
             "type": "prize",
-            "token": false,
-            "secret": false,
             "required": ""
         },
         {
             "name": "Baby Chicken",
             "category": "Baby Animals",
             "type": "prize",
-            "token": false,
-            "secret": false,
             "required": ""
         },
         {
             "name": "Baby Duck",
             "category": "Baby Animals",
             "type": "prize",
-            "token": false,
-            "secret": false,
             "required": ""
         },
         {
             "name": "Baby Hippo",
             "category": "Baby Animals",
             "type": "prize",
-            "token": false,
-            "secret": false,
             "required": ""
         },
         {
             "name": "Baby Seal",
             "category": "Baby Animals",
             "type": "prize",
-            "token": false,
-            "secret": false,
             "required": ""
         },
         {
             "name": "Badger",
             "category": "UK & Ireland",
             "type": "prize",
-            "token": false,
-            "secret": false,
             "required": ""
         },
         {
             "name": "Bag It!",
             "category": "Friends of Crossy",
             "type": "prize",
-            "token": false,
-            "secret": false,
             "required": ""
         },
         {
             "name": "Baller",
             "category": "People",
             "type": "prize",
-            "token": false,
-            "secret": false,
             "required": ""
         },
         {
             "name": "Bashy Beaver",
             "category": "Special",
             "type": "prize",
-            "token": false,
-            "secret": false,
             "required": ""
         },
         {
             "name": "Bee",
             "category": "Savana",
             "type": "prize",
-            "token": false,
-            "secret": false,
             "required": ""
         },
         {
             "name": "Ben Weatherall",
             "category": "People",
             "type": "secret",
-            "token": false,
-            "secret": true,
             "required": "The Dark Lord"
         },
         {
             "name": "Best in Show",
             "category": "Cats and Dogs",
             "type": "secret",
-            "token": false,
-            "secret": true,
             "required": "Any dog"
         },
         {
             "name": "Big Fancy Pig",
             "category": "Party",
             "type": "secret",
-            "token": false,
-            "secret": true,
             "required": "Blue"
         },
         {
             "name": "Big Fat Pit",
             "category": "Original Cast",
             "type": "prize",
-            "token": false,
-            "secret": false,
             "required": ""
         },
         {
             "name": "Bilby",
             "category": "Australia",
             "type": "prize",
-            "token": false,
-            "secret": false,
             "required": ""
         },
         {
             "name": "Birthday Chicken",
             "category": "Party",
             "type": "prize",
-            "token": false,
-            "secret": false,
             "required": ""
         },
         {
             "name": "Birthday Kid",
             "category": "Party",
             "type": "prize",
-            "token": false,
-            "secret": false,
             "required": ""
         },
         {
             "name": "Black Knight",
             "category": "Medieval",
             "type": "token",
-            "token": true,
-            "secret": false,
             "required": ""
         },
         {
             "name": "Black Sheep",
             "category": "Original Cast",
             "type": "prize",
-            "token": false,
-            "secret": false,
             "required": ""
         },
         {
             "name": "Blacksmith",
             "category": "Medieval",
             "type": "prize",
-            "token": false,
-            "secret": false,
             "required": ""
         },
         {
             "name": "Blinky",
             "category": "Pac-man",
             "type": "secret",
-            "token": false,
-            "secret": true,
             "required": "Pac-Chicken or Clyde"
         },
         {
             "name": "Blue",
             "category": "Cats and Dogs",
             "type": "prize",
-            "token": false,
-            "secret": false,
             "required": ""
         },
         {
             "name": "Blue Macaw",
             "category": "Brazil",
             "type": "prize",
-            "token": false,
-            "secret": false,
             "required": ""
         },
         {
             "name": "Bobby",
             "category": "UK & Ireland",
             "type": "prize",
-            "token": false,
-            "secret": false,
             "required": ""
         },
         {
             "name": "Bones",
             "category": "Dinosaurs",
-            "token": false,
-            "secret": true,
             "type": "secret",
             "required": "Paleontologist"
         },
@@ -392,143 +342,107 @@
             "name": "Brazil Chicken",
             "category": "Brazil",
             "type": "prize",
-            "token": false,
-            "secret": false,
             "required": ""
         },
         {
             "name": "Bride of Crossy",
             "category": "Spooky",
             "type": "prize",
-            "token": false,
-            "secret": false,
             "required": ""
         },
         {
             "name": "Brown Bunny",
             "category": "Animals",
             "type": "prize",
-            "token": false,
-            "secret": false,
             "required": ""
         },
         {
             "name": "Butterfly",
             "category": "UK & Ireland",
             "type": "prize",
-            "token": false,
-            "secret": false,
             "required": ""
         },
         {
             "name": "Cai Shen",
             "category": "China",
             "type": "secret",
-            "token": false,
-            "secret": true,
             "required": "Fortune Chicken, Fire Monkey, Xi, New Year's Doll, or Chinese Monster"
         },
         {
             "name": "Candy Corn",
             "category": "Spooky",
             "type": "prize",
-            "token": false,
-            "secret": false,
             "required": ""
         },
         {
             "name": "Capoeira",
             "category": "Brazil",
             "type": "prize",
-            "token": false,
-            "secret": false,
             "required": ""
         },
         {
             "name": "Capybara",
             "category": "Original Cast",
             "type": "prize",
-            "token": false,
-            "secret": false,
             "required": ""
         },
         {
             "name": "Caredy Cat",
             "category": "Cats and Dogs",
             "type": "prize",
-            "token": false,
-            "secret": false,
             "required": ""
         },
         {
             "name": "Carnaval",
             "category": "Brazil",
             "type": "prize",
-            "token": false,
-            "secret": false,
             "required": ""
         },
         {
             "name": "Cat Lady",
             "category": "Cats and Dogs",
             "type": "secret",
-            "token": false,
-            "secret": true,
             "required": "Lucky Cat, Unlucky Cat, or Tabby Cat"
         },
         {
             "name": "Cat-in-a-Box",
             "category": "At Home",
             "type": "prize",
-            "token": false,
-            "secret": false,
             "required": ""
         },
         {
             "name": "Catrina",
             "category": "Spooky",
             "type": "prize",
-            "token": false,
-            "secret": false,
             "required": ""
         },
         {
             "name": "Celebrity",
             "category": "People",
             "type": "prize",
-            "token": false,
-            "secret": false,
             "required": ""
         },
         {
             "name": "Cheerleader",
             "category": "People",
             "type": "prize",
-            "token": false,
-            "secret": false,
             "required": ""
         },
         {
             "name": "Chicken",
             "category": "Original Cast",
             "type": "free",
-            "token": false,
-            "secret": false,
             "required": ""
         },
         {
             "name": "Chimney Sweep",
             "category": "UK & Ireland",
             "type": "prize",
-            "token": false,
-            "secret": false,
             "required": ""
         },
         {
             "name": "Chinese Monster",
             "category": "China",
-            "token": false,
-            "secret": true,
             "type": "secret",
             "required": "New Year's Doll"
         },
@@ -536,15 +450,11 @@
             "name": "Choc Chicken",
             "category": "Candy",
             "type": "prize",
-            "token": false,
-            "secret": false,
             "required": ""
         },
         {
             "name": "Choc Mallard",
             "category": "Candy",
-            "token": false,
-            "secret": true,
             "type": "secret",
             "required": "Jelly Bear"
         },
@@ -552,23 +462,17 @@
             "name": "Chocolatier",
             "category": "Candy",
             "type": "prize",
-            "token": false,
-            "secret": false,
             "required": ""
         },
         {
             "name": "Clown",
             "category": "Spooky",
-            "token": false,
-            "secret": true,
             "type": "secret",
             "required": "The Hand"
         },
         {
             "name": "Clyde",
             "category": "Pac-man",
-            "token": false,
-            "secret": true,
             "type": "secret",
             "required": "Pac-man"
         },
@@ -576,15 +480,11 @@
             "name": "Cockatoo",
             "category": "Australia",
             "type": "prize",
-            "token": false,
-            "secret": false,
             "required": ""
         },
         {
             "name": "Coconut Water",
             "category": "Brazil",
-            "token": false,
-            "secret": true,
             "type": "secret",
             "required": "Tourist"
         },
@@ -592,15 +492,11 @@
             "name": "Cow",
             "category": "Original Cast",
             "type": "prize",
-            "token": false,
-            "secret": false,
             "required": ""
         },
         {
             "name": "Crab",
             "category": "Australia",
-            "token": false,
-            "secret": true,
             "type": "secret",
             "required": "Any mascot"
         },
@@ -608,135 +504,101 @@
             "name": "Crazy Ol' Ben",
             "category": "People",
             "type": "prize",
-            "token": false,
-            "secret": false,
             "required": ""
         },
         {
             "name": "Crocodile",
             "category": "Savana",
             "type": "prize",
-            "token": false,
-            "secret": false,
             "required": ""
         },
         {
             "name": "Cyclist",
             "category": "People",
             "type": "prize",
-            "token": false,
-            "secret": false,
             "required": ""
         },
         {
             "name": "Daddy",
             "category": "Korea",
             "type": "prize",
-            "token": false,
-            "secret": false,
             "required": ""
         },
         {
             "name": "Daruma Doll",
             "category": "Japan",
             "type": "prize",
-            "token": false,
-            "secret": false,
             "required": ""
         },
         {
             "name": "Desert Frog",
             "category": "Animals",
             "type": "prize",
-            "token": false,
-            "secret": false,
             "required": ""
         },
         {
             "name": "Devil Dad",
             "category": "Spooky",
             "type": "prize",
-            "token": false,
-            "secret": false,
             "required": ""
         },
         {
             "name": "Dilophosaurus",
             "category": "Dinosaurs",
             "type": "prize",
-            "token": false,
-            "secret": false,
             "required": ""
         },
         {
             "name": "Dingo",
             "category": "Australia",
             "type": "prize",
-            "token": false,
-            "secret": false,
             "required": ""
         },
         {
             "name": "Dinosaur Chicken",
             "category": "Dinosaurs",
             "type": "prize",
-            "token": false,
-            "secret": false,
             "required": ""
         },
         {
             "name": "Disco Zoo",
             "category": "Friends of Crossy",
             "type": "prize",
-            "token": false,
-            "secret": false,
             "required": ""
         },
         {
             "name": "Diver",
             "category": "Ocean",
             "type": "prize",
-            "token": false,
-            "secret": false,
             "required": ""
         },
         {
             "name": "Doge",
             "category": "Cats and Dogs",
             "type": "prize",
-            "token": false,
-            "secret": false,
             "required": ""
         },
         {
             "name": "Door Gods",
             "category": "China",
             "type": "prize",
-            "token": false,
-            "secret": false,
             "required": ""
         },
         {
             "name": "Dragon",
             "category": "China",
             "type": "prize",
-            "token": false,
-            "secret": false,
             "required": ""
         },
         {
             "name": "Dragon Rider",
             "category": "People",
-            "token": false,
-            "secret": true,
             "type": "secret",
             "required": "Snow King"
         },
         {
             "name": "Drop Bear",
             "category": "Australia",
-            "token": false,
-            "secret": true,
             "type": "secret",
             "required": "Any Australian mascot"
         },
@@ -744,263 +606,197 @@
             "name": "Easter Bunny",
             "category": "Festive",
             "type": "prize",
-            "token": false,
-            "secret": false,
             "required": ""
         },
         {
             "name": "Echidna",
             "category": "Australia",
             "type": "prize",
-            "token": false,
-            "secret": false,
             "required": ""
         },
         {
             "name": "Elf",
             "category": "Festive",
             "type": "prize",
-            "token": false,
-            "secret": false,
             "required": ""
         },
         {
             "name": "Emo Goose",
             "category": "Original Cast",
             "type": "prize",
-            "token": false,
-            "secret": false,
             "required": ""
         },
         {
             "name": "Emu",
             "category": "Australia",
             "type": "prize",
-            "token": false,
-            "secret": false,
             "required": ""
         },
         {
             "name": "Epoch",
             "category": "Friends of Crossy",
             "type": "prize",
-            "token": false,
-            "secret": false,
             "required": ""
         },
         {
             "name": "Falconer",
             "category": "Medieval",
             "type": "prize",
-            "token": false,
-            "secret": false,
             "required": ""
         },
         {
             "name": "Fancy Gent",
             "category": "UK & Ireland",
             "type": "prize",
-            "token": false,
-            "secret": false,
             "required": ""
         },
         {
             "name": "Fancy Lady",
             "category": "UK & Ireland",
             "type": "prize",
-            "token": false,
-            "secret": false,
             "required": ""
         },
         {
             "name": "Fast Tortoise",
             "category": "Animals",
             "type": "prize",
-            "token": false,
-            "secret": false,
             "required": ""
         },
         {
             "name": "Fawn",
             "category": "Baby Animals",
             "type": "prize",
-            "token": false,
-            "secret": false,
             "required": ""
         },
         {
             "name": "Festive Chicken",
             "category": "Festive",
             "type": "prize",
-            "token": false,
-            "secret": false,
             "required": ""
         },
         {
             "name": "Fiordland Penguin",
             "category": "New Zealand",
             "type": "prize",
-            "token": false,
-            "secret": false,
             "required": ""
         },
         {
             "name": "Fire Monkey",
             "category": "China",
             "type": "prize",
-            "token": false,
-            "secret": false,
             "required": ""
         },
         {
             "name": "Fish 'n Chips",
             "category": "UK & Ireland",
             "type": "prize",
-            "token": false,
-            "secret": false,
             "required": ""
         },
         {
             "name": "Flag Bearer",
             "category": "Brazil",
             "type": "prize",
-            "token": false,
-            "secret": false,
             "required": ""
         },
         {
             "name": "Flat Eric",
             "category": "Friends of Crossy",
             "type": "prize",
-            "token": false,
-            "secret": false,
             "required": ""
         },
         {
             "name": "Flea",
             "category": "Original Cast",
             "type": "prize",
-            "token": false,
-            "secret": false,
             "required": ""
         },
         {
             "name": "Floppy Fish",
             "category": "Original Cast",
             "type": "prize",
-            "token": false,
-            "secret": false,
             "required": ""
         },
         {
             "name": "Fluffy Sheep",
             "category": "New Zealand",
             "type": "prize",
-            "token": false,
-            "secret": false,
             "required": ""
         },
         {
             "name": "Football Player",
             "category": "People",
             "type": "prize",
-            "token": false,
-            "secret": false,
             "required": ""
         },
         {
             "name": "Forget-Me-Not",
             "category": "Friends of Crossy",
             "type": "prize",
-            "token": false,
-            "secret": false,
             "required": ""
         },
         {
             "name": "Fortune Chicken",
             "category": "China",
             "type": "prize",
-            "token": false,
-            "secret": false,
             "required": ""
         },
         {
             "name": "Fox",
             "category": "UK & Ireland",
             "type": "prize",
-            "token": false,
-            "secret": false,
             "required": ""
         },
         {
             "name": "Fox Cub",
             "category": "Baby Animals",
             "type": "prize",
-            "token": false,
-            "secret": false,
             "required": ""
         },
         {
             "name": "Framed",
             "category": "Friends of Crossy",
             "type": "prize",
-            "token": false,
-            "secret": false,
             "required": ""
         },
         {
             "name": "Frankenstein",
             "category": "Spooky",
             "type": "prize",
-            "token": false,
-            "secret": false,
             "required": ""
         },
         {
             "name": "Frying Pan",
             "category": "At Home",
             "type": "prize",
-            "token": false,
-            "secret": false,
             "required": ""
         },
         {
             "name": "Gazelle",
             "category": "Savana",
             "type": "prize",
-            "token": false,
-            "secret": false,
             "required": ""
         },
         {
             "name": "Ghost",
             "category": "Spooky",
             "type": "prize",
-            "token": false,
-            "secret": false,
             "required": ""
         },
         {
             "name": "Giddy Goat",
             "category": "Original Cast",
             "type": "prize",
-            "token": false,
-            "secret": false,
             "required": ""
         },
         {
             "name": "Gifty",
             "category": "Festive",
-            "token": false,
-            "secret": true,
             "type": "secret",
             "required": "Festive Chicken"
         },
         {
             "name": "Gingerbread Man",
             "category": "Candy",
-            "token": false,
-            "secret": true,
             "type": "secret",
             "required": "Wolf"
         },
@@ -1008,55 +804,41 @@
             "name": "Giraffe",
             "category": "Savana",
             "type": "prize",
-            "token": false,
-            "secret": false,
             "required": ""
         },
         {
             "name": "Good Witch",
             "category": "Candy",
             "type": "prize",
-            "token": false,
-            "secret": false,
             "required": ""
         },
         {
             "name": "Gorgeous Pince",
             "category": "Medieval",
             "type": "prize",
-            "token": false,
-            "secret": false,
             "required": ""
         },
         {
             "name": "Grablin",
             "category": "Friends of Crossy",
             "type": "prize",
-            "token": false,
-            "secret": false,
             "required": ""
         },
         {
             "name": "Grave Digger",
             "category": "Spooky",
             "type": "prize",
-            "token": false,
-            "secret": false,
             "required": ""
         },
         {
             "name": "Grey Bunny",
             "category": "Animals",
             "type": "prize",
-            "token": false,
-            "secret": false,
             "required": ""
         },
         {
             "name": "Halfling",
             "category": "New Zealand",
-            "token": false,
-            "secret": true,
             "type": "secret",
             "required": "Any New Zealand mascot"
         },
@@ -1064,23 +846,17 @@
             "name": "Hansel and Gretel",
             "category": "Candy",
             "type": "prize",
-            "token": false,
-            "secret": false,
             "required": ""
         },
         {
             "name": "Healer",
             "category": "Medieval",
             "type": "prize",
-            "token": false,
-            "secret": false,
             "required": ""
         },
         {
             "name": "Hipster Whale",
             "category": "Original Cast",
-            "token": false,
-            "secret": true,
             "type": "secret",
             "required": "Any mascot"
         },
@@ -1088,47 +864,35 @@
             "name": "Home Chicken",
             "category": "At Home",
             "type": "prize",
-            "token": false,
-            "secret": false,
             "required": ""
         },
         {
             "name": "Hooty",
             "category": "Friends of Crossy",
             "type": "prize",
-            "token": false,
-            "secret": false,
             "required": ""
         },
         {
             "name": "Hot Pot",
             "category": "China",
             "type": "prize",
-            "token": false,
-            "secret": false,
             "required": ""
         },
         {
             "name": "Hot Shot",
             "category": "People",
             "type": "prize",
-            "token": false,
-            "secret": false,
             "required": ""
         },
         {
             "name": "Hurdler",
             "category": "People",
             "type": "prize",
-            "token": false,
-            "secret": false,
             "required": ""
         },
         {
             "name": "Iceberg",
             "category": "Arctic",
-            "token": false,
-            "secret": true,
             "type": "secret",
             "required": "Any Arctic mascots"
         },
@@ -1136,23 +900,17 @@
             "name": "Ida",
             "category": "Friends of Crossy",
             "type": "prize",
-            "token": false,
-            "secret": false,
             "required": ""
         },
         {
             "name": "Iguana Hatchling",
             "category": "Baby Animals",
             "type": "prize",
-            "token": false,
-            "secret": false,
             "required": ""
         },
         {
             "name": "Inky",
             "category": "Pac-man",
-            "token": false,
-            "secret": true,
             "type": "secret",
             "required": "Pac-man"
         },
@@ -1160,1527 +918,1145 @@
             "name": "Jaguar",
             "category": "Brazil",
             "type": "prize",
-            "token": false,
-            "secret": false,
             "required": ""
         },
         {
             "name": "Jelly Bear",
             "category": "Candy",
             "type": "prize",
-            "token": false,
-            "secret": false,
             "required": ""
         },
         {
             "name": "Jindo",
             "category": "Korea",
             "type": "prize",
-            "token": false,
-            "secret": false,
             "required": ""
         },
         {
             "name": "Jungle Frog",
             "category": "Animals",
             "type": "prize",
-            "token": false,
-            "secret": false,
             "required": ""
         },
         {
             "name": "Kangaroo",
             "category": "Australia",
             "type": "prize",
-            "token": false,
-            "secret": false,
             "required": ""
         },
         {
             "name": "Karateka",
             "category": "Japan",
             "type": "prize",
-            "token": false,
-            "secret": false,
             "required": ""
         },
         {
             "name": "Katamari Chicken",
             "category": "Friends of Crossy",
             "type": "prize",
-            "token": false,
-            "secret": false,
             "required": ""
         },
         {
             "name": "K-Drama Actor",
             "category": "Korea",
-            "token": false,
-            "secret": false,
             "type": "prize",
             "required": ""
         },
         {
             "name": "Kea",
             "category": "New Zealand",
-            "token": false,
-            "secret": false,
             "type": "prize",
             "required": ""
         },
         {
             "name": "Kimchi",
             "category": "Korea",
-            "token": false,
-            "secret": false,
             "type": "prize",
             "required": ""
         },
         {
             "name": "Kitten",
             "category": "Baby Animals",
-            "token": false,
-            "secret": false,
             "type": "prize",
             "required": ""
         },
         {
             "name": "Kiwi",
             "category": "New Zealand",
-            "token": false,
-            "secret": false,
             "type": "prize",
             "required": ""
         },
         {
             "name": "Koala",
             "category": "Australia",
-            "token": false,
-            "secret": false,
             "type": "prize",
             "required": ""
         },
         {
             "name": "Kookaburra",
             "category": "Australia",
-            "token": false,
-            "secret": false,
             "type": "prize",
             "required": ""
         },
         {
             "name": "Korean BBQ",
             "category": "Korea",
-            "token": false,
-            "secret": false,
             "type": "prize",
             "required": ""
         },
         {
             "name": "Korean Drummer",
             "category": "Korea",
-            "token": false,
-            "secret": false,
             "type": "prize",
             "required": ""
         },
         {
             "name": "Lady of the Lake",
             "category": "Medieval",
-            "token": false,
-            "secret": true,
             "type": "secret",
             "required": "Any Medieval mascot"
         },
         {
             "name": "Laundry",
             "category": "At Home",
-            "token": false,
-            "secret": false,
             "type": "prize",
             "required": ""
         },
         {
             "name": "Lemming",
             "category": "Arctic",
-            "token": false,
-            "secret": false,
             "type": "prize",
             "required": ""
         },
         {
             "name": "Leprechaun",
             "category": "UK & Ireland",
-            "token": false,
-            "secret": true,
             "type": "secret",
             "required": "Any UK & Ireland mascot"
         },
         {
             "name": "Lion",
             "category": "Savana",
-            "token": false,
-            "secret": false,
             "type": "prize",
             "required": ""
         },
         {
             "name": "Llama",
             "category": "Brazil",
-            "token": false,
-            "secret": false,
             "type": "prize",
             "required": ""
         },
         {
             "name": "Long Chicken",
             "category": "Party",
-            "token": false,
-            "secret": false,
             "type": "prize",
             "required": ""
         },
         {
             "name": "Long Turkey",
             "category": "Festive",
-            "token": false,
-            "secret": false,
             "type": "prize",
             "required": ""
         },
         {
             "name": "Lost Penguin",
             "category": "Arctic",
-            "token": false,
-            "secret": false,
             "type": "prize",
             "required": ""
         },
         {
             "name": "Lovely Bunny",
             "category": "Animals",
-            "token": false,
-            "secret": false,
             "type": "prize",
             "required": ""
         },
         {
             "name": "Lucky Cat",
             "category": "Cats and Dogs",
-            "token": false,
-            "secret": false,
             "type": "prize",
             "required": ""
         },
         {
             "name": "Mad Bull",
             "category": "Original Cast",
-            "token": false,
-            "secret": false,
             "type": "prize",
             "required": ""
         },
         {
             "name": "Mad Wizard",
             "category": "Original Cast",
-            "token": false,
-            "secret": false,
             "type": "prize",
             "required": ""
         },
         {
             "name": "Mallard",
             "category": "Original Cast",
-            "token": false,
-            "secret": false,
             "type": "prize",
             "required": ""
         },
         {
             "name": "Maned Wolf",
             "category": "Brazil",
-            "token": false,
-            "secret": false,
             "type": "prize",
             "required": ""
         },
         {
             "name": "Marathon Runner",
             "category": "People",
-            "token": false,
-            "secret": true,
             "type": "secret",
             "required": "Cheerleader"
         },
         {
             "name": "Marmalade",
             "category": "Friends of Crossy",
-            "token": false,
-            "secret": true,
             "type": "secret",
             "required": "Piffle Ball"
         },
         {
             "name": "Marmalade Dog",
             "category": "Cats and Dogs",
-            "token": false,
-            "secret": false,
             "type": "prize",
             "required": ""
         },
         {
             "name": "Marmoset",
             "category": "Brazil",
-            "token": false,
-            "secret": false,
             "type": "prize",
             "required": ""
         },
         {
             "name": "Matsuri Chicken",
             "category": "Japan",
-            "token": false,
-            "secret": false,
             "type": "prize",
             "required": ""
         },
         {
             "name": "Matt Hall",
             "category": "People",
-            "token": false,
-            "secret": true,
             "type": "secret",
             "required": "Lucky Cat"
         },
         {
             "name": "Maui's Dolphin",
             "category": "New Zealand",
-            "token": false,
-            "secret": false,
             "type": "prize",
             "required": ""
         },
         {
             "name": "Meerkat",
             "category": "Savana",
-            "token": false,
-            "secret": false,
             "type": "prize",
             "required": ""
         },
         {
             "name": "Merlady",
             "category": "Ocean",
-            "token": false,
-            "secret": true,
             "type": "secret",
             "required": "Any non-Ocean mascot"
         },
         {
             "name": "Merlin",
             "category": "Medieval",
-            "token": false,
-            "secret": true,
             "type": "secret",
             "required": "The Wart"
         },
         {
             "name": "Michael Boom",
             "category": "People",
-            "token": false,
-            "secret": true,
             "type": "secret",
             "required": "Any mascot"
         },
         {
             "name": "Monk",
             "category": "Medieval",
-            "token": false,
-            "secret": false,
             "type": "prize",
             "required": ""
         },
         {
             "name": "Moon Cheese",
             "category": "Space",
-            "token": false,
-            "secret": false,
             "type": "prize",
             "required": ""
         },
         {
             "name": "Moon Rock",
             "category": "Space",
-            "token": false,
-            "secret": true,
             "type": "secret",
             "required": "Any Space mascot"
         },
         {
             "name": "Mummy",
             "category": "Spooky",
-            "token": false,
-            "secret": false,
             "type": "prize",
             "required": ""
         },
         {
             "name": "Narwhal",
             "category": "Arctic",
-            "token": false,
-            "secret": false,
             "type": "prize",
             "required": ""
         },
         {
             "name": "Natto",
             "category": "Japan",
-            "token": false,
-            "secret": false,
             "type": "prize",
             "required": ""
         },
         {
             "name": "Nautilus",
             "category": "Ocean",
-            "token": false,
-            "secret": false,
             "type": "prize",
             "required": ""
         },
         {
             "name": "Nessie",
             "category": "UK & Ireland",
-            "token": false,
-            "secret": true,
             "type": "secret",
             "required": "Any UK & Ireland mascot"
         },
         {
             "name": "New Year's Doll",
             "category": "China",
-            "token": false,
-            "secret": false,
             "type": "prize",
             "required": ""
         },
         {
             "name": "Newt",
             "category": "Animals",
-            "token": false,
-            "secret": false,
             "type": "prize",
             "required": ""
         },
         {
             "name": "Nobleman",
             "category": "Medieval",
-            "token": false,
-            "secret": false,
             "type": "prize",
             "required": ""
         },
         {
             "name": "Noblewoman",
             "category": "Medieval",
-            "token": false,
-            "secret": false,
             "type": "prize",
             "required": ""
         },
         {
             "name": "Noelle",
             "category": "Festive",
-            "token": false,
-            "secret": false,
             "type": "prize",
             "required": ""
         },
         {
             "name": "Nudibranch",
             "category": "Ocean",
-            "token": false,
-            "secret": false,
             "type": "prize",
             "required": ""
         },
         {
             "name": "NZ Rugby Player",
             "category": "New Zealand",
-            "token": false,
-            "secret": false,
             "type": "prize",
             "required": ""
         },
         {
             "name": "Ocean Turtle",
             "category": "Ocean",
-            "token": false,
-            "secret": false,
             "type": "prize",
             "required": ""
         },
         {
             "name": "Octogenarian",
             "category": "People",
-            "token": false,
-            "secret": false,
             "type": "prize",
             "required": ""
         },
         {
             "name": "Octopus",
             "category": "Ocean",
-            "token": false,
-            "secret": false,
             "type": "prize",
             "required": ""
         },
         {
             "name": "Onigiri",
             "category": "Japan",
-            "token": false,
-            "secret": false,
             "type": "prize",
             "required": ""
         },
         {
             "name": "Pac-chicken",
             "category": "Pac-man",
-            "token": false,
-            "secret": false,
             "type": "prize",
             "required": ""
         },
         {
             "name": "Pachycephalosaurus",
             "category": "Dinosaurs",
-            "token": false,
-            "secret": false,
             "type": "prize",
             "required": ""
         },
         {
             "name": "Pac-man",
             "category": "Pac-man",
-            "token": false,
-            "secret": false,
             "type": "prize",
             "required": ""
         },
         {
             "name": "Paleontologist",
             "category": "Dinosaurs",
-            "token": false,
-            "secret": false,
             "type": "prize",
             "required": ""
         },
         {
             "name": "Pandeiro",
             "category": "Brazil",
-            "token": false,
-            "secret": false,
             "type": "prize",
             "required": ""
         },
         {
             "name": "Parasaurolophus",
             "category": "Dinosaurs",
-            "token": false,
-            "secret": false,
             "type": "prize",
             "required": ""
         },
         {
             "name": "Pavlova",
             "category": "New Zealand",
-            "token": false,
-            "secret": false,
             "type": "prize",
             "required": ""
         },
         {
             "name": "Peasant",
             "category": "Medieval",
-            "token": false,
-            "secret": false,
             "type": "prize",
             "required": ""
         },
         {
             "name": "Penguin",
             "category": "Arctic",
-            "token": false,
-            "secret": false,
             "type": "prize",
             "required": ""
         },
         {
             "name": "Phone Box",
             "category": "UK & Ireland",
-            "token": false,
-            "secret": true,
             "type": "secret",
             "required": "Any UK & Ireland mascot"
         },
         {
             "name": "Piffle",
             "category": "Friends of Crossy",
-            "token": false,
-            "secret": false,
             "type": "prize",
             "required": ""
         },
         {
             "name": "Piffle Ball",
             "category": "Friends of Crossy",
-            "token": false,
-            "secret": true,
             "type": "secret",
             "required": "Waffles"
         },
         {
             "name": "Piggy Bank",
             "category": "Special",
-            "token": false,
-            "secret": false,
             "type": "prize",
             "required": ""
         },
         {
             "name": "Pineapple",
             "category": "Friends of Crossy",
-            "token": false,
-            "secret": true,
             "type": "secret",
             "required": "Piffle Ball"
         },
         {
             "name": "Pinky",
             "category": "Pac-man",
-            "token": false,
-            "secret": true,
             "type": "secret",
             "required": "Pac-Chicken"
         },
         {
             "name": "Piper",
             "category": "UK & Ireland",
-            "token": false,
-            "secret": false,
             "type": "prize",
             "required": ""
         },
         {
             "name": "Platypus",
             "category": "Australia",
-            "token": false,
-            "secret": false,
             "type": "prize",
             "required": ""
         },
         {
             "name": "Polar Bear",
             "category": "Arctic",
-            "token": false,
-            "secret": false,
             "type": "prize",
             "required": ""
         },
         {
             "name": "Poopy Pigeon",
             "category": "Original Cast",
-            "token": false,
-            "secret": false,
             "type": "prize",
             "required": ""
         },
         {
             "name": "Princess",
             "category": "Medieval",
-            "token": false,
-            "secret": false,
             "type": "prize",
             "required": ""
         },
         {
             "name": "Pro Gamer",
             "category": "Korea",
-            "token": false,
-            "secret": true,
             "type": "secret",
             "required": "Any Korean mascot"
         },
         {
             "name": "Pudding",
             "category": "Festive",
-            "token": false,
-            "secret": false,
             "type": "prize",
             "required": ""
         },
         {
             "name": "Puffin",
             "category": "Arctic",
-            "token": false,
-            "secret": false,
             "type": "prize",
             "required": ""
         },
         {
             "name": "Pug",
             "category": "Cats and Dogs",
-            "token": false,
-            "secret": false,
             "type": "prize",
             "required": ""
         },
         {
             "name": "Pumpkin",
             "category": "Spooky",
-            "token": false,
-            "secret": false,
             "type": "prize",
             "required": ""
         },
         {
             "name": "Puppy",
             "category": "Baby Animals",
-            "token": false,
-            "secret": false,
             "type": "prize",
             "required": ""
         },
         {
             "name": "Purple Bloop",
             "category": "Friends of Crossy",
-            "token": false,
-            "secret": true,
             "type": "secret",
             "required": "Grablin"
         },
         {
             "name": "Queen's Gaurd",
             "category": "UK & Ireland",
-            "token": false,
-            "secret": false,
             "type": "prize",
             "required": ""
         },
         {
             "name": "Qw33goorpps",
             "category": "Friends of Crossy",
-            "token": false,
-            "secret": false,
             "type": "prize",
             "required": ""
         },
         {
             "name": "Ramen",
             "category": "Japan",
-            "token": false,
-            "secret": false,
             "type": "prize",
             "required": ""
         },
         {
             "name": "Rattles",
             "category": "Friends of Crossy",
-            "token": false,
-            "secret": false,
             "type": "prize",
             "required": ""
         },
         {
             "name": "Redback Spider",
             "category": "Spooky",
-            "token": false,
-            "secret": false,
             "type": "prize",
             "required": ""
         },
         {
             "name": "Reindeer",
             "category": "Festive",
-            "token": false,
-            "secret": false,
             "type": "prize",
             "required": ""
         },
         {
             "name": "Rhino",
             "category": "Savana",
-            "token": false,
-            "secret": false,
             "type": "prize",
             "required": ""
         },
         {
             "name": "Robin Hood",
             "category": "Medieval",
-            "token": false,
-            "secret": true,
             "type": "secret",
             "required": "Monk"
         },
         {
             "name": "Robot Dog",
             "category": "Space",
-            "token": false,
-            "secret": true,
             "type": "secret",
             "required": "Any Space mascot"
         },
         {
             "name": "Rocky",
             "category": "People",
-            "token": false,
-            "secret": false,
             "type": "prize",
             "required": ""
         },
         {
             "name": "Rover",
             "category": "Space",
-            "token": false,
-            "secret": false,
             "type": "prize",
             "required": ""
         },
         {
             "name": "Rugby Player",
             "category": "People",
-            "token": false,
-            "secret": true,
             "type": "secret",
             "required": "Squirrel"
         },
         {
             "name": "Runner",
             "category": "People",
-            "token": false,
-            "secret": false,
             "type": "prize",
             "required": ""
         },
         {
             "name": "Rust Robot",
             "category": "Original Cast",
-            "token": false,
-            "secret": false,
             "type": "prize",
             "required": ""
         },
         {
             "name": "Sad Plant",
             "category": "At Home",
-            "token": false,
-            "secret": false,
             "type": "prize",
             "required": ""
         },
         {
             "name": "Samuria",
             "category": "Japan",
-            "token": false,
-            "secret": false,
             "type": "prize",
             "required": ""
         },
         {
             "name": "Scary Movie",
             "category": "Spooky",
-            "token": false,
-            "secret": false,
             "type": "prize",
             "required": ""
         },
         {
             "name": "Schoolgirl",
             "category": "UK & Ireland",
-            "token": false,
-            "secret": false,
             "type": "prize",
             "required": ""
         },
         {
             "name": "Scruffy God",
             "category": "Cats and Dogs",
-            "token": false,
-            "secret": false,
             "type": "prize",
             "required": ""
         },
         {
             "name": "Scuba Chicken",
             "category": "Ocean",
-            "token": false,
-            "secret": false,
             "type": "prize",
             "required": ""
         },
         {
             "name": "Seahorse",
             "category": "Ocean",
-            "token": false,
-            "secret": false,
             "type": "prize",
             "required": ""
         },
         {
             "name": "Seal",
             "category": "Arctic",
-            "token": false,
-            "secret": true,
             "type": "secret",
             "required": "Polar Bear"
         },
         {
             "name": "Seonbi",
             "category": "Korea",
-            "token": false,
-            "secret": false,
             "type": "prize",
             "required": ""
         },
         {
             "name": "Seoul Chicken",
             "category": "Korea",
-            "token": false,
-            "secret": false,
             "type": "prize",
             "required": ""
         },
         {
             "name": "Shooty Cat",
             "category": "Friends of Crossy",
-            "token": false,
-            "secret": false,
             "type": "prize",
             "required": ""
         },
         {
             "name": "Skeleton",
             "category": "Spooky",
-            "token": false,
-            "secret": false,
             "type": "prize",
             "required": ""
         },
         {
             "name": "Skeleton Pirate",
             "category": "Ocean",
-            "token": false,
-            "secret": false,
             "type": "prize",
             "required": ""
         },
         {
             "name": "Skip",
             "category": "People",
-            "token": false,
-            "secret": false,
             "type": "prize",
             "required": ""
         },
         {
             "name": "Slippers",
             "category": "At Home",
-            "token": false,
-            "secret": false,
             "type": "prize",
             "required": ""
         },
         {
             "name": "Slippy Penguin",
             "category": "Arctic",
-            "token": false,
-            "secret": false,
             "type": "prize",
             "required": ""
         },
         {
             "name": "Snow King",
             "category": "People",
-            "token": true,
             "type": "token",
-            "secret": false,
             "required": ""
         },
         {
             "name": "Snowman",
             "category": "Festive",
-            "token": false,
-            "secret": false,
             "type": "prize",
             "required": ""
         },
         {
             "name": "Soda Jerk",
             "category": "Candy",
-            "token": false,
-            "secret": false,
             "type": "prize",
             "required": ""
         },
         {
             "name": "Space Chicken",
             "category": "Space",
-            "token": false,
-            "secret": false,
             "type": "prize",
             "required": ""
         },
         {
             "name": "Space Dog",
             "category": "Space",
-            "token": false,
-            "secret": false,
             "type": "prize",
             "required": ""
         },
         {
             "name": "Space Walker",
             "category": "Space",
-            "token": false,
-            "secret": true,
             "type": "secret",
             "required": "Any Space mascot"
         },
         {
             "name": "Specimen 115",
             "category": "Original Cast",
-            "token": false,
-            "secret": false,
             "type": "prize",
             "required": ""
         },
         {
             "name": "Speedy Sloth",
             "category": "Animals",
-            "token": false,
-            "secret": false,
             "type": "prize",
             "required": ""
         },
         {
             "name": "Squirel",
             "category": "UK & Ireland",
-            "token": false,
-            "secret": false,
             "type": "prize",
             "required": ""
         },
         {
             "name": "Startfish",
             "category": "Ocean",
-            "token": false,
-            "secret": false,
             "type": "prize",
             "required": ""
         },
         {
             "name": "Stegosaurus",
             "category": "Dinosaurs",
-            "token": false,
-            "secret": false,
             "type": "prize",
             "required": ""
         },
         {
             "name": "Sumo Wrestler",
             "category": "Japan",
-            "token": false,
-            "secret": false,
             "type": "prize",
             "required": ""
         },
         {
             "name": "Swamp Frog",
             "category": "Animals",
-            "token": false,
-            "secret": false,
             "type": "prize",
             "required": ""
         },
         {
             "name": "Swift Snail",
             "category": "Animals",
-            "token": false,
-            "secret": false,
             "type": "prize",
             "required": ""
         },
         {
             "name": "Tabby Cat",
             "category": "Cats and Dogs",
-            "token": false,
-            "secret": false,
             "type": "prize",
             "required": ""
         },
         {
             "name": "Taekwondo Master",
             "category": "Korea",
-            "token": false,
-            "secret": false,
             "type": "prize",
             "required": ""
         },
         {
             "name": "Tanuki",
             "category": "Japan",
-            "token": false,
-            "secret": false,
             "type": "prize",
             "required": ""
         },
         {
             "name": "The Dark Lord",
             "category": "Spooky",
-            "token": false,
-            "secret": false,
             "type": "prize",
             "required": ""
         },
         {
             "name": "The Hand",
             "category": "Spooky",
-            "token": false,
-            "secret": false,
             "type": "prize",
             "required": ""
         },
         {
             "name": "The King of All Cosmos",
             "category": "Friends of Crossy",
-            "token": false,
-            "secret": true,
             "type": "secret",
             "required": "The Prince of All Cosmos"
         },
         {
             "name": "The Prince of All Cosmos",
             "category": "Friends of Crossy",
-            "token": false,
-            "secret": true,
             "type": "secret",
             "required": "Katamari Chicken"
         },
         {
             "name": "The Princess of All Cosmos",
             "category": "Friends of Crossy",
-            "token": false,
-            "secret": true,
             "type": "secret",
             "required": "The Prince of All Cosmos"
         },
         {
             "name": "The Queen of All Cosmos",
             "category": "Friends of Crossy",
-            "token": false,
-            "secret": true,
             "type": "secret",
             "required": "The King of All Cosmos"
         },
         {
             "name": "The Storyteller",
             "category": "Friends of Crossy",
-            "token": false,
-            "secret": false,
             "type": "prize",
             "required": ""
         },
         {
             "name": "The Three Deities",
             "category": "China",
-            "token": false,
-            "secret": false,
             "type": "prize",
             "required": ""
         },
         {
             "name": "The Totem",
             "category": "Friends of Crossy",
-            "token": false,
-            "secret": true,
             "type": "secret",
             "required": "Ida, A Crow, or The Storyteller"
         },
         {
             "name": "The Wart",
             "category": "Medieval",
-            "token": false,
-            "secret": false,
             "type": "prize",
             "required": ""
         },
         {
             "name": "Thesaurus",
             "category": "Dinosaurs",
-            "token": false,
-            "secret": false,
             "type": "prize",
             "required": ""
         },
         {
             "name": "Thoroughbred",
             "category": "Original Cast",
-            "token": false,
-            "secret": false,
             "type": "prize",
             "required": ""
         },
         {
             "name": "Tiger",
             "category": "Cats and Dogs",
-            "token": false,
-            "secret": false,
             "type": "prize",
             "required": ""
         },
         {
             "name": "Tiny Pony",
             "category": "Baby Animals",
-            "token": false,
-            "secret": false,
             "type": "prize",
             "required": ""
         },
         {
             "name": "Tió de Nadal",
             "category": "Festive",
-            "token": false,
-            "secret": false,
             "type": "prize",
             "required": ""
         },
         {
             "name": "Toaster",
             "category": "At Home",
-            "token": false,
-            "secret": false,
             "type": "prize",
             "required": ""
         },
         {
             "name": "Toilet Paper",
             "category": "At Home",
-            "token": false,
-            "secret": false,
             "type": "prize",
             "required": ""
         },
         {
             "name": "Werewolf",
             "category": "Spooky",
-            "token": true,
             "type": "token",
-            "secret": false,
             "required": ""
         },
         {
             "name": "Crossy Toad",
             "category": "Australia",
-            "token": true,
             "type": "token",
-            "secret": false,
             "required": ""
         },
         {
             "name": "Lemon & Paerda",
             "category": "New Zealand",
-            "token": true,
             "type": "token",
-            "secret": false,
             "required": ""
         },
         {
             "name": "Equestrian",
             "category": "People",
-            "token": true,
             "type": "token",
-            "secret": false,
             "required": ""
         },
         {
             "name": "Laser Cat",
             "category": "Cats and Dogs",
-            "token": true,
             "type": "token",
-            "secret": false,
             "required": ""
         },
         {
             "name": "Maneki Neko",
             "category": "Japan",
-            "token": true,
             "type": "token",
-            "secret": false,
             "required": ""
         },
         {
             "name": "Poopy Party Chicken",
             "category": "Party",
-            "token": true,
             "type": "token",
-            "secret": false,
             "required": ""
         },
         {
             "name": "Piñata",
             "category": "Party",
-            "token": true,
             "type": "token",
-            "secret": false,
             "required": ""
         },
         {
             "name": "Cupcake",
             "category": "Party",
-            "token": true,
             "type": "token",
-            "secret": false,
             "required": ""
         },
         {
             "name": "Rubber Chicken",
             "category": "Party",
-            "token": true,
             "type": "token",
-            "secret": false,
             "required": ""
         },
         {
             "name": "Sea Sponge",
             "category": "Ocean",
-            "token": true,
             "type": "token",
-            "secret": false,
             "required": ""
         },
         {
             "name": "Hatchling",
             "category": "Baby Animals",
-            "token": true,
             "type": "token",
-            "secret": false,
             "required": ""
         },
         {
             "name": "Choc Bunny",
             "category": "Festive",
-            "token": true,
             "type": "token",
-            "secret": false,
             "required": ""
         },
         {
             "name": "Too Much Candy",
             "category": "Candy",
-            "token": false,
-            "secret": true,
             "type": "secret",
             "required": "Any mascot"
         },
         {
             "name": "Tooth Fairy",
             "category": "Candy",
-            "token": false,
-            "secret": false,
             "type": "prize",
             "required": ""
         },
         {
             "name": "Toothbrush",
             "category": "At Home",
-            "token": false,
-            "secret": false,
             "type": "prize",
             "required": ""
         },
         {
             "name": "Toucan",
             "category": "Brazil",
-            "token": false,
-            "secret": false,
             "type": "prize",
             "required": ""
         },
         {
             "name": "Tourist",
             "category": "People",
-            "token": false,
-            "secret": false,
             "type": "prize",
             "required": ""
         },
         {
             "name": "Tree Frog",
             "category": "Animals",
-            "token": false,
-            "secret": false,
             "type": "prize",
             "required": ""
         },
         {
             "name": "Triceratops",
             "category": "Dinosaurs",
-            "token": false,
-            "secret": false,
             "type": "prize",
             "required": ""
         },
         {
             "name": "Turny",
             "category": "Friends of Crossy",
-            "token": false,
-            "secret": false,
             "type": "prize",
             "required": ""
         },
         {
             "name": "Tyrannosaurus Rex",
             "category": "Dinosaurs",
-            "token": false,
-            "secret": false,
             "type": "prize",
             "required": ""
         },
         {
             "name": "Ultra Fighter",
             "category": "Japan",
-            "token": false,
-            "secret": false,
             "type": "prize",
             "required": ""
         },
         {
             "name": "Unexpected Shrew",
             "category": "Dinosaurs",
-            "token": false,
-            "secret": false,
             "type": "prize",
             "required": ""
         },
         {
             "name": "Unihorse",
             "category": "Original Cast",
-            "token": false,
-            "secret": false,
             "type": "prize",
             "required": ""
         },
         {
             "name": "Unlucky Cat",
             "category": "Cats and Dogs",
-            "token": false,
-            "secret": false,
             "type": "prize",
             "required": ""
         },
         {
             "name": "Vampire",
             "category": "Spooky",
-            "token": false,
-            "secret": false,
             "type": "prize",
             "required": ""
         },
         {
             "name": "Waffles",
             "category": "Friends of Crossy",
-            "token": false,
-            "secret": true,
             "type": "secret",
             "required": "Piffle"
         },
         {
             "name": "Walrus",
             "category": "Arctic",
-            "token": false,
-            "secret": false,
             "type": "prize",
             "required": ""
         },
         {
             "name": "Warthog",
             "category": "Savana",
-            "token": false,
-            "secret": false,
             "type": "prize",
             "required": ""
         },
         {
             "name": "Wintersweet",
             "category": "China",
-            "token": false,
-            "secret": false,
             "type": "prize",
             "required": ""
         },
         {
             "name": "Witch",
             "category": "Spooky",
-            "token": false,
-            "secret": false,
             "type": "prize",
             "required": ""
         },
         {
             "name": "Wolf",
             "category": "Cats and Dogs",
-            "token": false,
-            "secret": false,
             "type": "prize",
             "required": ""
         },
         {
             "name": "Wolverine",
             "category": "Arctic",
-            "token": false,
-            "secret": false,
             "type": "prize",
             "required": ""
         },
         {
             "name": "Wombat",
             "category": "Australia",
-            "token": false,
-            "secret": false,
             "type": "prize",
             "required": ""
         },
         {
             "name": "Xi",
             "category": "China",
-            "token": false,
-            "secret": false,
             "type": "prize",
             "required": ""
         },
         {
             "name": "Yeti",
             "category": "Festive",
-            "token": false,
-            "secret": true,
             "type": "secret",
             "required": "Any Christmas (2015) mascot"
         },
         {
             "name": "Zebra",
             "category": "Savana",
-            "token": false,
-            "secret": false,
             "type": "prize",
             "required": ""
         },
         {
             "name": "Zombie",
             "category": "Spooky",
-            "token": false,
-            "secret": false,
             "type": "prize",
             "required": ""
         }

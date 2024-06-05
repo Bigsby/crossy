@@ -1,6 +1,9 @@
 {
     "categories": [
         {
+            "name": "Farm"
+        },
+        {
             "name": "Special"
         },
         {
@@ -80,6 +83,120 @@
         }
     ],
     "characters": [
+        {
+            "name": "Mouser",
+            "category": "Farm",
+            "type": "prize",
+            "required": ""
+        },
+        {
+            "name": "American Gothic",
+            "category": "Farm",
+            "type": "prize",
+            "required": ""
+        },
+        {
+            "name": "Jersey Cow",
+            "category": "Farm",
+            "type": "prize",
+            "required": ""
+        },
+        {
+            "name": "Alpaca",
+            "category": "Farm",
+            "type": "prize",
+            "required": ""
+        },
+        {
+            "name": "White Silkie Chicken",
+            "category": "Farm",
+            "type": "prize",
+            "required": ""
+        },
+        {
+            "name": "Rooster",
+            "category": "Farm",
+            "type": "prize",
+            "required": ""
+        },
+        {
+            "name": "New Hampshire Chicken",
+            "category": "Farm",
+            "type": "prize",
+            "required": ""
+        },
+        {
+            "name": "Motorbike Cow",
+            "category": "Farm",
+            "type": "prize",
+            "required": ""
+        },
+        {
+            "name": "Honse",
+            "category": "Farm",
+            "type": "prize",
+            "required": ""
+        },
+        {
+            "name": "Hare",
+            "category": "Farm",
+            "type": "prize",
+            "required": ""
+        },
+        {
+            "name": "Farmer Chicken",
+            "category": "Farm",
+            "type": "prize",
+            "required": ""
+        },
+        {
+            "name": "Lamb",
+            "category": "Farm",
+            "type": "prize",
+            "required": ""
+        },
+        {
+            "name": "Border Collie",
+            "category": "farm",
+            "type": "prize",
+            "required": ""
+        },
+        {
+            "name": "Muddy Pig",
+            "category": "Farm",
+            "type": "prize",
+            "required": ""
+        },
+        {
+            "name": "Shorn Sheep",
+            "category": "Farm",
+            "type": "prize",
+            "required": ""
+        },
+        {
+            "name": "Farmer",
+            "category": "Farm",
+            "type": "prize",
+            "required": ""
+        },
+        {
+            "name": "Goose",
+            "category": "Farm",
+            "type": "prize",
+            "required": ""
+        },
+        {
+            "name": "The Goat",
+            "category": "Farm",
+            "type": "prize",
+            "required": ""
+        },
+        {
+            "name": "Chichen Lady",
+            "category": "Farm",
+            "type": "prize",
+            "required": ""
+        },
         {
             "name": "#TheDress",
             "category": "People",
